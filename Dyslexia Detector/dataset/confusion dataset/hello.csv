@@ -1,0 +1,1609 @@
+Context,Gloss,Label,Target Word
+"She went to the bank to deposit her paycheck.","A financial institution where people keep money.","1","bank"
+"She went to the bank to deposit her paycheck.","The land alongside or sloping down to a river or lake.","0","bank"
+---
+"The children played on the river bank all afternoon.","The land alongside or sloping down to a river or lake.","1","bank"
+"The children played on the river bank all afternoon.","A financial institution where people keep money.","0","bank"
+---
+"He couldn't bear the pain any longer.","To tolerate or endure something difficult or unpleasant.","1","bear"
+"He couldn't bear the pain any longer.","A large, heavy mammal with thick fur and a very short tail.","0","bear"
+---
+"The bear wandered through the forest looking for food.","A large, heavy mammal with thick fur and a very short tail.","1","bear"
+"The bear wandered through the forest looking for food.","To tolerate or endure something difficult or unpleasant.","0","bear"
+---
+"The rock star wore a diamond-studded watch.","A celebrity in the music industry, especially known for rock music.","1","rock"
+"The rock star wore a diamond-studded watch.","A hard, solid mineral material forming part of the surface of the earth.","0","rock"
+---
+"He slipped on a rock and twisted his ankle.","A hard, solid mineral material forming part of the surface of the earth.","1","rock"
+"He slipped on a rock and twisted his ankle.","A celebrity in the music industry, especially known for rock music.","0","rock"
+---
+"She broke the lead of her pencil and had to sharpen it.","The graphite core of a pencil.","1","lead"
+"She broke the lead of her pencil and had to sharpen it.","A position of advantage in a race or competition.","0","lead"
+---
+"He managed to take the lead in the final lap of the race.","A position of advantage in a race or competition.","1","lead"
+"He managed to take the lead in the final lap of the race.","The graphite core of a pencil.","0","lead"
+---
+"The crane lifted the steel beam effortlessly.","A large, tall machine used for moving heavy objects.","1","crane"
+"The crane lifted the steel beam effortlessly.","A tall, long-necked bird that lives near water.","0","crane"
+---
+"We spotted a crane standing by the edge of the lake.","A tall, long-necked bird that lives near water.","1","crane"
+"We spotted a crane standing by the edge of the lake.","A large, tall machine used for moving heavy objects.","0","crane"
+
+"The bat flew silently through the night sky.","A nocturnal flying mammal that has a body like a mouse and two large membranous wings.","1","bat"
+"The bat flew silently through the night sky.","A club used for hitting a ball in certain sports, such as baseball.","0","bat"
+---
+"He swung the bat and hit a home run.","A club used for hitting a ball in certain sports, such as baseball.","1","bat"
+"He swung the bat and hit a home run.","A nocturnal flying mammal that has a body like a mouse and two large membranous wings.","0","bat"
+---
+"She left her glasses on the table.","A device worn on the face to improve vision.","1","glasses"
+"She left her glasses on the table.","Containers used for drinking liquids, typically made of glass.","0","glasses"
+---
+"We drank water from crystal glasses at the dinner.","Containers used for drinking liquids, typically made of glass.","1","glasses"
+"We drank water from crystal glasses at the dinner.","A device worn on the face to improve vision.","0","glasses"
+---
+"The soldier had to desert his post under fire.","To leave a place or a duty without intending to return, especially in violation of a duty.","1","desert"
+"The soldier had to desert his post under fire.","A dry, barren, sandy region with little or no vegetation.","0","desert"
+---
+"The camel crossed the hot desert slowly.","A dry, barren, sandy region with little or no vegetation.","1","desert"
+"The camel crossed the hot desert slowly.","To leave a place or a duty without intending to return, especially in violation of a duty.","0","desert"
+---
+"The coach asked her to run a lap around the track.","A complete trip around a racecourse or track.","1","lap"
+"The coach asked her to run a lap around the track.","The upper side of the thighs of a seated person.","0","lap"
+---
+"The toddler sat on her mother’s lap.","The upper side of the thighs of a seated person.","1","lap"
+"The toddler sat on her mother’s lap.","A complete trip around a racecourse or track.","0","lap"
+---
+"He noticed a light change in her tone.","Something that is not heavy or intense.","1","light"
+"He noticed a light change in her tone.","A form of electromagnetic radiation that makes things visible.","0","light"
+---
+"The light from the window brightened the room.","A form of electromagnetic radiation that makes things visible.","1","light"
+"The light from the window brightened the room.","Something that is not heavy or intense.","0","light"
+
+"She booked a room at the hotel for the weekend.","To arrange for someone to have a place, seat, or service.","1","book"
+"She booked a room at the hotel for the weekend.","A set of written or printed pages bound together and enclosed between covers.","0","book"
+---
+"He spent the afternoon reading a fascinating book.","A set of written or printed pages bound together and enclosed between covers.","1","book"
+"He spent the afternoon reading a fascinating book.","To arrange for someone to have a place, seat, or service.","0","book"
+---
+"The match was postponed due to rain.","A sports event where two teams or individuals compete.","1","match"
+"The match was postponed due to rain.","A small stick that produces a flame when struck.","0","match"
+---
+"He lit the candle with a match.","A small stick that produces a flame when struck.","1","match"
+"He lit the candle with a match.","A sports event where two teams or individuals compete.","0","match"
+---
+"They charged him for the extra luggage.","To ask someone to pay an amount of money.","1","charge"
+"They charged him for the extra luggage.","To rush forward in an attack.","0","charge"
+---
+"The soldiers began to charge at the enemy lines.","To rush forward in an attack.","1","charge"
+"The soldiers began to charge at the enemy lines.","To ask someone to pay an amount of money.","0","charge"
+---
+"The seal clapped its flippers happily.","A sea animal with flippers that lives near cold oceans.","1","seal"
+"The seal clapped its flippers happily.","A device or substance used to close or fasten something tightly.","0","seal"
+---
+"Make sure the envelope has a proper seal.","A device or substance used to close or fasten something tightly.","1","seal"
+"Make sure the envelope has a proper seal.","A sea animal with flippers that lives near cold oceans.","0","seal"
+---
+"She nailed the presentation with confidence.","To do something successfully or perfectly.","1","nail"
+"She nailed the presentation with confidence.","A thin, hard, pointed metal pin used in construction or carpentry.","0","nail"
+---
+"He hit the nail with a hammer to fix the board.","A thin, hard, pointed metal pin used in construction or carpentry.","1","nail"
+"He hit the nail with a hammer to fix the board.","To do something successfully or perfectly.","0","nail"
+
+"The watch he wore was a gift from his grandfather.","A small timepiece worn typically on the wrist.","1","watch"
+"The watch he wore was a gift from his grandfather.","To observe attentively over a period of time.","0","watch"
+---
+"We stayed up late to watch the meteor shower.","To observe attentively over a period of time.","1","watch"
+"We stayed up late to watch the meteor shower.","A small timepiece worn typically on the wrist.","0","watch"
+---
+"The bark of the dog startled the baby.","The sharp sound made by a dog.","1","bark"
+"The bark of the dog startled the baby.","The outer covering of the trunk of a tree.","0","bark"
+---
+"The tree's bark was rough and full of moss.","The outer covering of the trunk of a tree.","1","bark"
+"The tree's bark was rough and full of moss.","The sharp sound made by a dog.","0","bark"
+---
+"He dropped the anchor to keep the boat steady.","A heavy object used to moor a vessel to the sea bottom.","1","anchor"
+"He dropped the anchor to keep the boat steady.","A person who presents and coordinates a live television or radio program.","0","anchor"
+---
+"The news anchor remained calm during the breaking story.","A person who presents and coordinates a live television or radio program.","1","anchor"
+"The news anchor remained calm during the breaking story.","A heavy object used to moor a vessel to the sea bottom.","0","anchor"
+---
+"The leaves began to fall as autumn arrived.","To drop downward freely due to gravity.","1","fall"
+"The leaves began to fall as autumn arrived.","The season of the year between summer and winter.","0","fall"
+---
+"We went hiking during the crisp fall weather.","The season of the year between summer and winter.","1","fall"
+"We went hiking during the crisp fall weather.","To drop downward freely due to gravity.","0","fall"
+---
+"He tied the knot tightly to secure the sail.","An interlacing of rope or string used to fasten things together.","1","knot"
+"He tied the knot tightly to secure the sail.","A hard lump or swelling in wood, tissue, or thread.","0","knot"
+---
+"She had a knot in her shoulder after working all day.","A hard lump or swelling in wood, tissue, or thread.","1","knot"
+"She had a knot in her shoulder after working all day.","An interlacing of rope or string used to fasten things together.","0","knot"
+
+"She left a note on the fridge to remind him.","A short written message or reminder.","1","note"
+"She left a note on the fridge to remind him.","A musical sound with a particular pitch and duration.","0","note"
+---
+"He played the final note of the song perfectly.","A musical sound with a particular pitch and duration.","1","note"
+"He played the final note of the song perfectly.","A short written message or reminder.","0","note"
+---
+"He caught a cold after walking in the rain.","A common viral infection causing coughing, sneezing, and a sore throat.","1","cold"
+"He caught a cold after walking in the rain.","Having a low temperature or lacking warmth.","0","cold"
+---
+"The drink was ice cold and refreshing.","Having a low temperature or lacking warmth.","1","cold"
+"The drink was ice cold and refreshing.","A common viral infection causing coughing, sneezing, and a sore throat.","0","cold"
+---
+"She got a ticket for parking illegally.","A written notice issued for a violation, usually requiring a fine.","1","ticket"
+"She got a ticket for parking illegally.","A piece of paper or digital pass allowing entry or travel.","0","ticket"
+---
+"He bought a movie ticket online.","A piece of paper or digital pass allowing entry or travel.","1","ticket"
+"He bought a movie ticket online.","A written notice issued for a violation, usually requiring a fine.","0","ticket"
+---
+"The ring was made of pure gold.","A small circular band, often worn on a finger.","1","ring"
+"The ring was made of pure gold.","The sound a bell makes.","0","ring"
+---
+"I heard the ring of the doorbell and got up.","The sound a bell makes.","1","ring"
+"I heard the ring of the doorbell and got up.","A small circular band, often worn on a finger.","0","ring"
+---
+"He made a pitch to the investors this morning.","A presentation or proposal to persuade someone.","1","pitch"
+"He made a pitch to the investors this morning.","The degree of highness or lowness of a musical note.","0","pitch"
+---
+"She hit the high pitch perfectly in the chorus.","The degree of highness or lowness of a musical note.","1","pitch"
+"She hit the high pitch perfectly in the chorus.","A presentation or proposal to persuade someone.","0","pitch"
+
+"The bass in that song is incredibly deep.","The low-frequency tones in music.","1","bass"
+"The bass in that song is incredibly deep.","A type of freshwater fish.","0","bass"
+---
+"He caught a large bass near the lake this morning.","A type of freshwater fish.","1","bass"
+"He caught a large bass near the lake this morning.","The low-frequency tones in music.","0","bass"
+---
+"The pupil of the eye adjusts to light.","The central opening in the eye that controls light entry.","1","pupil"
+"The pupil of the eye adjusts to light.","A student who is taught by a teacher.","0","pupil"
+---
+"The teacher praised the pupil for her hard work.","A student who is taught by a teacher.","1","pupil"
+"The teacher praised the pupil for her hard work.","The central opening in the eye that controls light entry.","0","pupil"
+---
+"The bark of the tree was thick and rough.","The outer protective layer of a tree.","1","bark"
+"The bark of the tree was thick and rough.","A loud sound made by a dog.","0","bark"
+---
+"The dog’s bark echoed through the neighborhood.","A loud sound made by a dog.","1","bark"
+"The dog’s bark echoed through the neighborhood.","The outer protective layer of a tree.","0","bark"
+---
+"He had to file the documents before the deadline.","To place or organize papers in a specific order.","1","file"
+"He had to file the documents before the deadline.","A tool with a rough surface used for smoothing or shaping.","0","file"
+---
+"She used a file to shape her nails.","A tool with a rough surface used for smoothing or shaping.","1","file"
+"She used a file to shape her nails.","To place or organize papers in a specific order.","0","file"
+---
+"The nail on the wall held the picture frame.","A thin, pointed metal pin used to fasten objects.","1","nail"
+"The nail on the wall held the picture frame.","To perform something successfully or perfectly.","0","nail"
+---
+"She really nailed her speech at the conference.","To perform something successfully or perfectly.","1","nail"
+"She really nailed her speech at the conference.","A thin, pointed metal pin used to fasten objects.","0","nail"
+---
+"The current in the river was too strong to swim against.","A flow of water in a particular direction.","1","current"
+"The current in the river was too strong to swim against.","Happening or existing now; present time.","0","current"
+---
+"I like to stay informed about current events.","Happening or existing now; present time.","1","current"
+"I like to stay informed about current events.","A flow of water in a particular direction.","0","current"
+
+"The speaker had a strong accent when he spoke English.","A distinctive way of pronouncing a language, often associated with a country or region.","1","accent"
+"The speaker had a strong accent when he spoke English.","A decorative detail or emphasis added for effect.","0","accent"
+---
+"The living room had a red accent wall.","A decorative detail or emphasis added for effect.","1","accent"
+"The living room had a red accent wall.","A distinctive way of pronouncing a language, often associated with a country or region.","0","accent"
+---
+"He drew a bow and aimed at the target.","A curved weapon for shooting arrows.","1","bow"
+"He drew a bow and aimed at the target.","To bend forward at the waist, usually to show respect.","0","bow"
+---
+"She gave a small bow before leaving the stage.","To bend forward at the waist, usually to show respect.","1","bow"
+"She gave a small bow before leaving the stage.","A curved weapon for shooting arrows.","0","bow"
+---
+"The tire had a large hole and needed to be patched.","A round rubber covering that fits around a wheel.","1","tire"
+"The tire had a large hole and needed to be patched.","To grow weary or exhausted.","0","tire"
+---
+"I tire quickly when I don't get enough sleep.","To grow weary or exhausted.","1","tire"
+"I tire quickly when I don't get enough sleep.","A round rubber covering that fits around a wheel.","0","tire"
+---
+"He set the mold in the fridge to harden overnight.","A hollow container used to give shape to a substance.","1","mold"
+"He set the mold in the fridge to harden overnight.","A fungus that grows in moist, warm conditions.","0","mold"
+---
+"There was mold growing on the bread left out too long.","A fungus that grows in moist, warm conditions.","1","mold"
+"There was mold growing on the bread left out too long.","A hollow container used to give shape to a substance.","0","mold"
+---
+"The wave knocked him off his surfboard.","A moving ridge on the surface of a body of water.","1","wave"
+"The wave knocked him off his surfboard.","To move one’s hand back and forth as a greeting or signal.","0","wave"
+---
+"She gave a quick wave before getting in the car.","To move one’s hand back and forth as a greeting or signal.","1","wave"
+"She gave a quick wave before getting in the car.","A moving ridge on the surface of a body of water.","0","wave"
+---
+"He jammed the copier by feeding the paper incorrectly.","To block or become stuck in a machine.","1","jam"
+"He jammed the copier by feeding the paper incorrectly.","A sweet spread made from fruit and sugar.","0","jam"
+---
+"I had toast with strawberry jam for breakfast.","A sweet spread made from fruit and sugar.","1","jam"
+"I had toast with strawberry jam for breakfast.","To block or become stuck in a machine.","0","jam"
+
+"The crane had to duck as the beam swung overhead.","To lower the head or body quickly to avoid something.","1","duck"
+"The crane had to duck as the beam swung overhead.","A waterbird with a broad blunt bill, short legs, and webbed feet.","0","duck"
+---
+"The duck waddled into the pond with her ducklings.","A waterbird with a broad blunt bill, short legs, and webbed feet.","1","duck"
+"The duck waddled into the pond with her ducklings.","To lower the head or body quickly to avoid something.","0","duck"
+---
+"The club met every Wednesday to discuss new books.","A group of people organized for a common purpose or activity.","1","club"
+"The club met every Wednesday to discuss new books.","A heavy stick used as a weapon.","0","club"
+---
+"He defended himself with a wooden club.","A heavy stick used as a weapon.","1","club"
+"He defended himself with a wooden club.","A group of people organized for a common purpose or activity.","0","club"
+---
+"The tire left a long mark on the gravel road.","A visible impression or trace left behind on a surface.","1","mark"
+"The tire left a long mark on the gravel road.","A grade given to a student's work.","0","mark"
+---
+"She was happy to receive the highest mark in class.","A grade given to a student's work.","1","mark"
+"She was happy to receive the highest mark in class.","A visible impression or trace left behind on a surface.","0","mark"
+---
+"The spring flowers bloomed early this year.","The season between winter and summer.","1","spring"
+"The spring flowers bloomed early this year.","A coil that returns to its original shape after being compressed.","0","spring"
+---
+"The old sofa had a broken spring inside it.","A coil that returns to its original shape after being compressed.","1","spring"
+"The old sofa had a broken spring inside it.","The season between winter and summer.","0","spring"
+---
+"The fan was spinning at full speed in the heat.","A device that circulates air in a room.","1","fan"
+"The fan was spinning at full speed in the heat.","An enthusiastic admirer or supporter of a public figure or activity.","0","fan"
+---
+"She's been a huge fan of that singer since childhood.","An enthusiastic admirer or supporter of a public figure or activity.","1","fan"
+"She's been a huge fan of that singer since childhood.","A device that circulates air in a room.","0","fan"
+---
+"The pen stopped working during the exam.","An instrument for writing or drawing with ink.","1","pen"
+"The pen stopped working during the exam.","An enclosed area for keeping animals.","0","pen"
+---
+"The sheep were herded into the pen for the night.","An enclosed area for keeping animals.","1","pen"
+"The sheep were herded into the pen for the night.","An instrument for writing or drawing with ink.","0","pen"
+
+"The leaves began to bark as the wind picked up.","The sound made by a dog.","0","bark"
+"The leaves began to bark as the wind picked up.","The outer covering of a tree trunk.","1","bark"
+---
+"The soldier carried a heavy lead during the march.","A type of metal.","1","lead"
+"The soldier carried a heavy lead during the march.","To guide or direct.","0","lead"
+---
+"She will lead the team to victory.","To guide or direct.","1","lead"
+"She will lead the team to victory.","A type of metal.","0","lead"
+---
+"The dove flew gracefully across the sky.","A type of bird symbolizing peace.","1","dove"
+"The dove flew gracefully across the sky.","Past tense of dive.","0","dove"
+---
+"He dove into the pool with great enthusiasm.","Past tense of dive.","1","dove"
+"He dove into the pool with great enthusiasm.","A type of bird symbolizing peace.","0","dove"
+---
+"He will contract the company for construction.","To enter into a formal agreement.","1","contract"
+"He will contract the company for construction.","To become smaller or shrink.","0","contract"
+---
+"Muscles contract when they are exercised.","To become smaller or shrink.","1","contract"
+"Muscles contract when they are exercised.","To enter into a formal agreement.","0","contract"
+---
+"The match was decided by a sudden goal.","A sports competition.","1","match"
+"The match was decided by a sudden goal.","A small stick that produces a flame.","0","match"
+---
+"He struck a match to light the candle.","A small stick that produces a flame.","1","match"
+"He struck a match to light the candle.","A sports competition.","0","match"
+---
+"The lead actor received a standing ovation.","Main or principal actor in a play or film.","1","lead"
+"The lead actor received a standing ovation.","A type of metal.","0","lead"
+---
+"The band played a live concert downtown.","Performed in front of an audience.","1","live"
+"The band played a live concert downtown.","To be alive.","0","live"
+---
+"I prefer to live near the ocean.","To be alive.","1","live"
+"I prefer to live near the ocean.","Performed in front of an audience.","0","live"
+
+"He decided to park the car near the entrance.","To leave a vehicle in a designated area.","1","park"
+"He decided to park the car near the entrance.","A large public green space for recreation.","0","park"
+---
+"The kids played soccer in the park all afternoon.","A large public green space for recreation.","1","park"
+"The kids played soccer in the park all afternoon.","To leave a vehicle in a designated area.","0","park"
+---
+"The letter was sent by mail yesterday.","Letters and parcels sent by the postal service.","1","mail"
+"The letter was sent by mail yesterday.","A system of metal armor covering the body.","0","mail"
+---
+"He wore a suit of mail during the medieval reenactment.","A system of metal armor covering the body.","1","mail"
+"He wore a suit of mail during the medieval reenactment.","Letters and parcels sent by the postal service.","0","mail"
+---
+"She ran a tight ship to keep the business organized.","An organized and efficient operation.","1","ship"
+"She ran a tight ship to keep the business organized.","A large vessel for traveling on water.","0","ship"
+---
+"The cargo was loaded onto the ship at the dock.","A large vessel for traveling on water.","1","ship"
+"The cargo was loaded onto the ship at the dock.","An organized and efficient operation.","0","ship"
+---
+"He had a sharp eye for details in the contract.","Keen or acute in perception or insight.","1","sharp"
+"He had a sharp eye for details in the contract.","Having a pointed edge or tip.","0","sharp"
+---
+"The knife has a very sharp blade.","Having a pointed edge or tip.","1","sharp"
+"The knife has a very sharp blade.","Keen or acute in perception or insight.","0","sharp"
+---
+"The crane lifted the heavy load with ease.","A large machine used for lifting heavy objects.","1","crane"
+"The crane lifted the heavy load with ease.","A tall wading bird with long legs and neck.","0","crane"
+---
+"The crane was spotted near the wetland early morning.","A tall wading bird with long legs and neck.","1","crane"
+"The crane was spotted near the wetland early morning.","A large machine used for lifting heavy objects.","0","crane"
+---
+"He used a scale to weigh the ingredients for baking.","An instrument for measuring weight.","1","scale"
+"He used a scale to weigh the ingredients for baking.","A series of musical notes ordered by pitch.","0","scale"
+---
+"She practiced singing the major scale every day.","A series of musical notes ordered by pitch.","1","scale"
+"She practiced singing the major scale every day.","An instrument for measuring weight.","0","scale"
+
+
+"The novel was quite a page-turner from start to finish.","A single side of a sheet of paper in a book.","1","page"
+"The novel was quite a page-turner from start to finish.","To turn pages quickly or eagerly.","0","page"
+---
+"The assistant was hired to page the manager immediately.","To call someone over a public address system.","1","page"
+"The assistant was hired to page the manager immediately.","A single side of a sheet of paper in a book.","0","page"
+---
+"The musician hit the right note perfectly.","A single sound with a specific pitch and duration.","1","note"
+"The musician hit the right note perfectly.","A brief written message.","0","note"
+---
+"She left a note on the fridge to remind him.","A brief written message.","1","note"
+"She left a note on the fridge to remind him.","A single sound with a specific pitch and duration.","0","note"
+---
+"The bow of the ship cut through the waves smoothly.","The front part of a ship or boat.","1","bow"
+"The bow of the ship cut through the waves smoothly.","To bend forward at the waist as a gesture of respect.","0","bow"
+---
+"The performer took a bow after the standing ovation.","To bend forward at the waist as a gesture of respect.","1","bow"
+"The performer took a bow after the standing ovation.","The front part of a ship or boat.","0","bow"
+---
+"He filed the papers alphabetically.","To arrange documents in order.","1","file"
+"He filed the papers alphabetically.","A tool with a rough surface used for smoothing or shaping.","0","file"
+---
+"She used a file to smooth the edges of the metal.","A tool with a rough surface used for smoothing or shaping.","1","file"
+"She used a file to smooth the edges of the metal.","To arrange documents in order.","0","file"
+---
+"The party was held at the bank of the river.","The side or edge of a river or stream.","1","bank"
+"The party was held at the bank of the river.","A financial institution.","0","bank"
+---
+"He deposited money at the bank yesterday.","A financial institution.","1","bank"
+"He deposited money at the bank yesterday.","The side or edge of a river or stream.","0","bank"
+---
+"The bat flew silently through the night sky.","A nocturnal flying mammal.","1","bat"
+"The bat flew silently through the night sky.","A club used in sports such as baseball.","0","bat"
+---
+"He swung the bat and hit a home run.","A club used in sports such as baseball.","1","bat"
+"He swung the bat and hit a home run.","A nocturnal flying mammal.","0","bat"
+
+"The judge ruled in favor of the plaintiff.","A person who brings a case against another in court.","1","plaintiff"
+"The judge ruled in favor of the plaintiff.","Feeling or expressing sorrow or complaint.","0","plaintiff"
+---
+"Her plaintive cry echoed through the night.","Feeling or expressing sorrow or complaint.","1","plaintiff"
+"Her plaintive cry echoed through the night.","A person who brings a case against another in court.","0","plaintiff"
+---
+"He wrote a contract for the sale of the house.","A legally binding agreement between parties.","1","contract"
+"He wrote a contract for the sale of the house.","To shrink or become smaller.","0","contract"
+---
+"Muscles contract during physical activity.","To shrink or become smaller.","1","contract"
+"Muscles contract during physical activity.","A legally binding agreement between parties.","0","contract"
+---
+"The wind will blow the leaves across the yard.","To move air from one place to another.","1","blow"
+"The wind will blow the leaves across the yard.","To swell or burst.","0","blow"
+---
+"The boxer delivered a powerful blow to his opponent.","A sudden forceful hit.","1","blow"
+"The boxer delivered a powerful blow to his opponent.","To move air from one place to another.","0","blow"
+---
+"He watched the bat fly out of the cave at dusk.","A nocturnal flying mammal.","1","bat"
+"He watched the bat fly out of the cave at dusk.","A sports equipment used for hitting a ball.","0","bat"
+---
+"He bought a new bat for the baseball game.","A sports equipment used for hitting a ball.","1","bat"
+"He bought a new bat for the baseball game.","A nocturnal flying mammal.","0","bat"
+---
+"The seal clapped its fins at the zoo.","A marine mammal that lives in water.","1","seal"
+"The seal clapped its fins at the zoo.","To close something tightly.","0","seal"
+---
+"Please seal the envelope before mailing it.","To close something tightly.","1","seal"
+"Please seal the envelope before mailing it.","A marine mammal that lives in water.","0","seal"
+---
+"The wind was strong enough to shake the tree.","To move something violently back and forth.","1","shake"
+"The wind was strong enough to shake the tree.","A type of cocktail made by mixing ingredients.","0","shake"
+---
+"She ordered a chocolate shake for dessert.","A type of cocktail or drink made by mixing ingredients.","1","shake"
+"She ordered a chocolate shake for dessert.","To move something violently back and forth.","0","shake"
+
+"The rock band played to a sold-out crowd.","A group of musicians who play rock music.","1","rock"
+"The rock band played to a sold-out crowd.","A large piece of stone.","0","rock"
+---
+"He placed a rock on the stack of papers to keep them from blowing away.","A large piece of stone.","1","rock"
+"He placed a rock on the stack of papers to keep them from blowing away.","A group of musicians who play rock music.","0","rock"
+---
+"The well was deep and filled with clear water.","A hole drilled to access water underground.","1","well"
+"The well was deep and filled with clear water.","In good health or condition.","0","well"
+---
+"She felt well enough to return to work.","In good health or condition.","1","well"
+"She felt well enough to return to work.","A hole drilled to access water underground.","0","well"
+---
+"The date on the bottle indicated it was expired.","A specific day on a calendar.","1","date"
+"The date on the bottle indicated it was expired.","A romantic or social meeting with someone.","0","date"
+---
+"He took her out on a date to a fancy restaurant.","A romantic or social meeting with someone.","1","date"
+"He took her out on a date to a fancy restaurant.","A specific day on a calendar.","0","date"
+---
+"The runner set a new track record.","A recorded best performance in a sport or competition.","1","record"
+"The runner set a new track record.","To store audio or video for playback.","0","record"
+---
+"I will record the lecture to review it later.","To store audio or video for playback.","1","record"
+"I will record the lecture to review it later.","A recorded best performance in a sport or competition.","0","record"
+---
+"She played the bass in the school orchestra.","A low-pitched stringed instrument.","1","bass"
+"She played the bass in the school orchestra.","A type of freshwater fish.","0","bass"
+---
+"He caught a big bass while fishing in the lake.","A type of freshwater fish.","1","bass"
+"He caught a big bass while fishing in the lake.","A low-pitched stringed instrument.","0","bass"
+---
+"The pen stopped working after a few pages.","A tool used for writing.","1","pen"
+"The pen stopped working after a few pages.","An enclosure for animals.","0","pen"
+---
+"The farmer kept the pigs in a wooden pen.","An enclosure for animals.","1","pen"
+"The farmer kept the pigs in a wooden pen.","A tool used for writing.","0","pen"
+---
+"He had to change the tire after the blowout.","A rubber covering of a wheel.","1","tire"
+"He had to change the tire after the blowout.","To become physically exhausted.","0","tire"
+---
+"I tire quickly when I skip breakfast.","To become physically exhausted.","1","tire"
+"I tire quickly when I skip breakfast.","A rubber covering of a wheel.","0","tire"
+---
+"The band is going to record a new album this year.","To capture audio or data for later playback.","1","record"
+"The band is going to record a new album this year.","A physical disc that stores music.","0","record"
+---
+"I found an old jazz record in my grandfather's collection.","A physical disc that stores music.","1","record"
+"I found an old jazz record in my grandfather's collection.","To capture audio or data for later playback.","0","record"
+---
+"The wave knocked over the small boat.","A ridge of water moving across the sea surface.","1","wave"
+"The wave knocked over the small boat.","A gesture involving moving one's hand side to side.","0","wave"
+---
+"She gave a cheerful wave as the train left.","A gesture involving moving one's hand side to side.","1","wave"
+"She gave a cheerful wave as the train left.","A ridge of water moving across the sea surface.","0","wave"
+---
+"The bark of the tree was thick and peeling.","The outer layer of a tree trunk.","1","bark"
+"The bark of the tree was thick and peeling.","The sound made by a dog.","0","bark"
+---
+"The dog’s bark startled the baby.","The sound made by a dog.","1","bark"
+"The dog’s bark startled the baby.","The outer layer of a tree trunk.","0","bark"
+
+"He tied a tight knot in the rope.","An interlacing of rope or string secured together.","1","knot"
+"He tied a tight knot in the rope.","A unit of speed used in aviation and maritime travel.","0","knot"
+---
+"The plane was flying at 500 knots.","A unit of speed used in aviation and maritime travel.","1","knot"
+"The plane was flying at 500 knots.","An interlacing of rope or string secured together.","0","knot"
+---
+"She had to break the bank to afford that car.","To spend all or a large amount of money.","1","bank"
+"She had to break the bank to afford that car.","A financial institution that holds and manages money.","0","bank"
+---
+"He deposited his paycheck at the bank.","A financial institution that holds and manages money.","1","bank"
+"He deposited his paycheck at the bank.","To spend all or a large amount of money.","0","bank"
+---
+"The star shone brightly in the night sky.","A luminous celestial body visible in the sky.","1","star"
+"The star shone brightly in the night sky.","A famous or celebrated person in a field.","0","star"
+---
+"The actor is a rising star in Hollywood.","A famous or celebrated person in a field.","1","star"
+"The actor is a rising star in Hollywood.","A luminous celestial body visible in the sky.","0","star"
+---
+"She has a strong sense of pride in her work.","A feeling of deep satisfaction and honor.","1","pride"
+"She has a strong sense of pride in her work.","A group of lions living together.","0","pride"
+---
+"A pride of lions roamed across the savannah.","A group of lions living together.","1","pride"
+"A pride of lions roamed across the savannah.","A feeling of deep satisfaction and honor.","0","pride"
+---
+"The mole dug several tunnels in the yard.","A small burrowing mammal with poor eyesight.","1","mole"
+"The mole dug several tunnels in the yard.","A person who secretly gathers and shares information.","0","mole"
+---
+"They discovered a mole leaking secrets to the enemy.","A person who secretly gathers and shares information.","1","mole"
+"They discovered a mole leaking secrets to the enemy.","A small burrowing mammal with poor eyesight.","0","mole"
+---
+"The court will try the defendant next week.","A place where legal matters are heard and judged.","1","court"
+"The court will try the defendant next week.","An area marked for playing sports like tennis or basketball.","0","court"
+---
+"We met on the tennis court every Saturday.","An area marked for playing sports like tennis or basketball.","1","court"
+"We met on the tennis court every Saturday.","A place where legal matters are heard and judged.","0","court"
+---
+"She used a ruler to draw a straight line.","A tool used to measure length or draw straight edges.","1","ruler"
+"She used a ruler to draw a straight line.","A person who governs or leads a country or region.","0","ruler"
+---
+"The king was the absolute ruler of the kingdom.","A person who governs or leads a country or region.","1","ruler"
+"The king was the absolute ruler of the kingdom.","A tool used to measure length or draw straight edges.","0","ruler"
+---
+"He charged his phone before leaving.","To supply electrical energy to a device.","1","charge"
+"He charged his phone before leaving.","To demand money for a product or service.","0","charge"
+---
+"The hotel will charge you for late checkout.","To demand money for a product or service.","1","charge"
+"The hotel will charge you for late checkout.","To supply electrical energy to a device.","0","charge"
+---
+"He has a sharp eye for fashion.","Keen perception or awareness.","1","sharp"
+"He has a sharp eye for fashion.","Having a fine or pointed edge or tip.","0","sharp"
+---
+"Be careful, that knife is very sharp.","Having a fine or pointed edge or tip.","1","sharp"
+"Be careful, that knife is very sharp.","Keen perception or awareness.","0","sharp"
+
+"He couldn't bear the pain any longer.","To tolerate or endure something difficult.","1","bear"
+"He couldn't bear the pain any longer.","A large, heavy mammal with thick fur.","0","bear"
+---
+"The bear wandered into the campsite looking for food.","A large, heavy mammal with thick fur.","1","bear"
+"The bear wandered into the campsite looking for food.","To tolerate or endure something difficult.","0","bear"
+---
+"The patient showed signs of strain after surgery.","Physical or emotional stress or pressure.","1","strain"
+"The patient showed signs of strain after surgery.","A type or variety within a species, such as bacteria or plants.","0","strain"
+---
+"This strain of wheat is resistant to drought.","A type or variety within a species, such as bacteria or plants.","1","strain"
+"This strain of wheat is resistant to drought.","Physical or emotional stress or pressure.","0","strain"
+---
+"He had to duck when the ball flew toward him.","To lower the head or body quickly.","1","duck"
+"He had to duck when the ball flew toward him.","A water bird with webbed feet.","0","duck"
+---
+"The duck swam gracefully across the pond.","A water bird with webbed feet.","1","duck"
+"The duck swam gracefully across the pond.","To lower the head or body quickly.","0","duck"
+---
+"The drill lasted for three hours straight.","A training exercise or practice session.","1","drill"
+"The drill lasted for three hours straight.","A tool used to make holes in materials.","0","drill"
+---
+"I used a power drill to hang the shelf.","A tool used to make holes in materials.","1","drill"
+"I used a power drill to hang the shelf.","A training exercise or practice session.","0","drill"
+---
+"The case was dismissed by the judge.","A legal matter being examined in court.","1","case"
+"The case was dismissed by the judge.","A container for storing or transporting items.","0","case"
+---
+"She put her glasses back in their case.","A container for storing or transporting items.","1","case"
+"She put her glasses back in their case.","A legal matter being examined in court.","0","case"
+---
+"He plays bass in a jazz trio.","A low-pitched musical instrument.","1","bass"
+"He plays bass in a jazz trio.","A kind of freshwater fish.","0","bass"
+---
+"He caught a huge bass in the lake.","A kind of freshwater fish.","1","bass"
+"He caught a huge bass in the lake.","A low-pitched musical instrument.","0","bass"
+---
+"The match ended in a tie after extra time.","A sports contest or competition.","1","match"
+"The match ended in a tie after extra time.","A small stick used to start a fire.","0","match"
+---
+"He struck a match and lit the candle.","A small stick used to start a fire.","1","match"
+"He struck a match and lit the candle.","A sports contest or competition.","0","match"
+---
+"The leaves fall from the trees in autumn.","To drop or descend freely.","1","fall"
+"The leaves fall from the trees in autumn.","The season between summer and winter.","0","fall"
+---
+"We enjoy hiking in the fall when it's cooler.","The season between summer and winter.","1","fall"
+"We enjoy hiking in the fall when it's cooler.","To drop or descend freely.","0","fall"
+
+"He used a stick to draw in the sand.","A long, thin piece of wood.","1","stick"
+"He used a stick to draw in the sand.","To adhere or cling to something.","0","stick"
+---
+"The label won’t stick to the wet bottle.","To adhere or cling to something.","1","stick"
+"The label won’t stick to the wet bottle.","A long, thin piece of wood.","0","stick"
+---
+"The bug landed on my shoulder unexpectedly.","An insect or small creature.","1","bug"
+"The bug landed on my shoulder unexpectedly.","A flaw or defect in a computer program.","0","bug"
+---
+"They fixed the login bug in the software update.","A flaw or defect in a computer program.","1","bug"
+"They fixed the login bug in the software update.","An insect or small creature.","0","bug"
+---
+"The light in the room was too bright to read.","Illumination or the presence of brightness.","1","light"
+"The light in the room was too bright to read.","Not heavy in weight.","0","light"
+---
+"The box was surprisingly light to carry.","Not heavy in weight.","1","light"
+"The box was surprisingly light to carry.","Illumination or the presence of brightness.","0","light"
+---
+"She wore a watch on her wrist.","A small timepiece worn on the body.","1","watch"
+"She wore a watch on her wrist.","To observe attentively or remain alert.","0","watch"
+---
+"Please watch the pot so it doesn’t boil over.","To observe attentively or remain alert.","1","watch"
+"Please watch the pot so it doesn’t boil over.","A small timepiece worn on the body.","0","watch"
+---
+"The patient was in stable condition after surgery.","Not likely to change or fail; steady.","1","stable"
+"The patient was in stable condition after surgery.","A building where animals, especially horses, are kept.","0","stable"
+---
+"The horse was led back into the stable.","A building where animals, especially horses, are kept.","1","stable"
+"The horse was led back into the stable.","Not likely to change or fail; steady.","0","stable"
+---
+"The file contains sensitive financial documents.","A folder or container for storing papers.","1","file"
+"The file contains sensitive financial documents.","To smooth or shape with a rough tool.","0","file"
+---
+"She had to file her nails before the event.","To smooth or shape with a rough tool.","1","file"
+"She had to file her nails before the event.","A folder or container for storing papers.","0","file"
+---
+"The plane will taxi to the runway.","To move slowly along the ground before takeoff.","1","taxi"
+"The plane will taxi to the runway.","A car licensed to transport passengers for a fare.","0","taxi"
+---
+"We hailed a taxi to get to the train station.","A car licensed to transport passengers for a fare.","1","taxi"
+"We hailed a taxi to get to the train station.","To move slowly along the ground before takeoff.","0","taxi"
+---
+"The pitch of his voice was surprisingly high.","The quality of a sound governed by frequency.","1","pitch"
+"The pitch of his voice was surprisingly high.","A presentation or sales proposal.","0","pitch"
+---
+"The startup founder delivered her pitch to investors.","A presentation or sales proposal.","1","pitch"
+"The startup founder delivered her pitch to investors.","The quality of a sound governed by frequency.","0","pitch"
+
+"He managed to catch the ball with one hand.","To take hold of something.","1","catch"
+"He managed to catch the ball with one hand.","An event where two or more people meet.","0","catch"
+---
+"She had to catch a train to the city.","An event where two or more people meet.","1","catch"
+"She had to catch a train to the city.","To take hold of something.","0","catch"
+---
+"The drill will catch your attention with its unique design.","To attract or draw attention.","1","catch"
+"The drill will catch your attention with its unique design.","A tool used for making holes.","0","catch"
+---
+"The painter mixed the colors on the palette.","A surface on which paint is mixed.","1","palette"
+"The painter mixed the colors on the palette.","A range of different items or styles.","0","palette"
+---
+"He used a wide palette of colors in his painting.","A range of different items or styles.","1","palette"
+"He used a wide palette of colors in his painting.","A surface on which paint is mixed.","0","palette"
+---
+"The detective asked him to provide a detailed account of the incident.","A description or report of something.","1","account"
+"The detective asked him to provide a detailed account of the incident.","A financial record or statement.","0","account"
+---
+"He opened a new bank account last week.","A financial record or statement.","1","account"
+"He opened a new bank account last week.","A description or report of something.","0","account"
+---
+"He played a role in the charity event.","An acting part or function in a performance.","1","role"
+"He played a role in the charity event.","A particular function or position in an organization.","0","role"
+---
+"She was promoted to a higher role within the company.","A particular function or position in an organization.","1","role"
+"She was promoted to a higher role within the company.","An acting part or function in a performance.","0","role"
+---
+"The farmer sowed the seeds in neat rows.","To plant seeds in the ground.","1","row"
+"The farmer sowed the seeds in neat rows.","A linear arrangement of objects or people.","0","row"
+---
+"The workers stood in a row for the inspection.","A linear arrangement of objects or people.","1","row"
+"The workers stood in a row for the inspection.","To plant seeds in the ground.","0","row"
+---
+"She won first place in the race.","A competitive event involving running.","1","race"
+"She won first place in the race.","A group of people or things sharing a common characteristic.","0","race"
+---
+"The car was a symbol of the human race's progress.","A group of people or things sharing a common characteristic.","1","race"
+"The car was a symbol of the human race's progress.","A competitive event involving running.","0","race"
+---
+"He loved the scent of fresh flowers in the garden.","A distinctive smell or fragrance.","1","scent"
+"He loved the scent of fresh flowers in the garden.","A path or trail left by an animal or person.","0","scent"
+---
+"The dog followed the scent of the rabbit.","A path or trail left by an animal or person.","1","scent"
+"The dog followed the scent of the rabbit.","A distinctive smell or fragrance.","0","scent"
+---
+"The officer gave her a warning for speeding.","A written or spoken statement advising someone.","1","warning"
+"The officer gave her a warning for speeding.","A signal or indication of something to come.","0","warning"
+---
+"The storm cloud gave a clear warning of rain.","A signal or indication of something to come.","1","warning"
+"The storm cloud gave a clear warning of rain.","A written or spoken statement advising someone.","0","warning"
+---
+"The teacher praised the student for his effort.","To speak highly of someone or something.","1","praise"
+"The teacher praised the student for his effort.","A form of respect or reverence.","0","praise"
+---
+"People showed their praise for the charity event.","A form of respect or reverence.","1","praise"
+"People showed their praise for the charity event.","To speak highly of someone or something.","0","praise"
+
+"The scientist made a breakthrough in the lab.","A significant discovery or advancement.","1","breakthrough"
+"The scientist made a breakthrough in the lab.","A physical crack or fracture.","0","breakthrough"
+---
+"The wall had a large breakthrough after the earthquake.","A physical crack or fracture.","1","breakthrough"
+"The wall had a large breakthrough after the earthquake.","A significant discovery or advancement.","0","breakthrough"
+---
+"He decided to take a break from work for lunch.","A short rest or pause in activity.","1","break"
+"He decided to take a break from work for lunch.","To separate or divide into pieces.","0","break"
+---
+"She broke the vase while cleaning the shelf.","To separate or divide into pieces.","1","break"
+"She broke the vase while cleaning the shelf.","A short rest or pause in activity.","0","break"
+---
+"He wears a cap to protect his eyes from the sun.","A small, flat head covering.","1","cap"
+"He wears a cap to protect his eyes from the sun.","A limit or maximum amount.","0","cap"
+---
+"The company has a cap on the amount of leave allowed.","A limit or maximum amount.","1","cap"
+"The company has a cap on the amount of leave allowed.","A small, flat head covering.","0","cap"
+---
+"The bird's feathers were brightly colored.","The plumage of a bird, typically covering its body.","1","feather"
+"The bird's feathers were brightly colored.","A light, soft structure growing on birds.","0","feather"
+---
+"He added a feather to his collection of rare items.","A light, soft structure growing on birds.","1","feather"
+"He added a feather to his collection of rare items.","The plumage of a bird, typically covering its body.","0","feather"
+---
+"She felt overwhelmed by the heavy burden on her shoulders.","A load or weight that is difficult to carry.","1","burden"
+"She felt overwhelmed by the heavy burden on her shoulders.","A group of individuals or things collected together.","0","burden"
+---
+"He carried the burden of responsibility for the project.","A load or weight that is difficult to carry.","1","burden"
+"He carried the burden of responsibility for the project.","A group of individuals or things collected together.","0","burden"
+---
+"He made a toast to the success of the company.","A drink raised in celebration.","1","toast"
+"He made a toast to the success of the company.","A slice of bread browned by heat.","0","toast"
+---
+"She spread butter on her toast before eating it.","A slice of bread browned by heat.","1","toast"
+"She spread butter on her toast before eating it.","A drink raised in celebration.","0","toast"
+---
+"The artist decided to frame his latest painting.","A border or structure around a picture.","1","frame"
+"The artist decided to frame his latest painting.","A period of time or duration.","0","frame"
+---
+"He spent hours framing the perfect shot.","To compose or position something within a view.","1","frame"
+"He spent hours framing the perfect shot.","A border or structure around a picture.","0","frame"
+---
+"He felt a sudden chill in the air.","A sudden feeling of coldness or discomfort.","1","chill"
+"He felt a sudden chill in the air.","A relaxed or casual atmosphere.","0","chill"
+---
+"The party had a chill vibe with friends and music.","A relaxed or casual atmosphere.","1","chill"
+"The party had a chill vibe with friends and music.","A sudden feeling of coldness or discomfort.","0","chill"
+---
+"He took a shot at the target and missed.","A quick, forceful movement or attempt.","1","shot"
+"He took a shot at the target and missed.","A drink, typically alcoholic, served in small amounts.","0","shot"
+---
+"He poured a shot of whiskey after work.","A drink, typically alcoholic, served in small amounts.","1","shot"
+"He poured a shot of whiskey after work.","A quick, forceful movement or attempt.","0","shot"
+---
+"The mountain path was steep and challenging.","A slope or incline that is difficult to climb.","1","slope"
+"The mountain path was steep and challenging.","A type of surface material or covering.","0","slope"
+---
+"He used a special tool to fix the slope of the roof.","A type of surface material or covering.","1","slope"
+"He used a special tool to fix the slope of the roof.","A slope or incline that is difficult to climb.","0","slope"
+
+"The lightning struck the tree during the storm.","A sudden electrical discharge in the atmosphere.","1","lightning"
+"The lightning struck the tree during the storm.","A very fast movement or event.","0","lightning"
+---
+"He is quick as lightning when running the 100m dash.","A very fast movement or event.","1","lightning"
+"He is quick as lightning when running the 100m dash.","A sudden electrical discharge in the atmosphere.","0","lightning"
+---
+"He loved watching the waves crash against the rocks.","A long, sweeping movement of water.","1","wave"
+"He loved watching the waves crash against the rocks.","A gesture involving moving the hand to say hello or goodbye.","0","wave"
+---
+"She gave a wave as she left the party.","A gesture involving moving the hand to say hello or goodbye.","1","wave"
+"She gave a wave as she left the party.","A long, sweeping movement of water.","0","wave"
+---
+"The ship came into port after a long journey.","A harbor or dock where ships are moored.","1","port"
+"The ship came into port after a long journey.","A type of computer connection for peripherals.","0","port"
+---
+"She plugged the USB cable into the port on the laptop.","A type of computer connection for peripherals.","1","port"
+"She plugged the USB cable into the port on the laptop.","A harbor or dock where ships are moored.","0","port"
+---
+"He always took the scenic route to work.","A road or path offering beautiful views.","1","route"
+"He always took the scenic route to work.","A fixed or planned course of travel.","0","route"
+---
+"The bus followed its usual route through the city.","A fixed or planned course of travel.","1","route"
+"The bus followed its usual route through the city.","A road or path offering beautiful views.","0","route"
+---
+"The fish swam through the coral reef.","A large underwater structure made of coral.","1","reef"
+"The fish swam through the coral reef.","A layer of metal or hard material.","0","reef"
+---
+"They sailed near a rocky reef during their voyage.","A layer of metal or hard material.","1","reef"
+"They sailed near a rocky reef during their voyage.","A large underwater structure made of coral.","0","reef"
+---
+"He used a ruler to measure the length of the table.","A tool for measuring or drawing straight lines.","1","ruler"
+"He used a ruler to measure the length of the table.","A leader who governs a country or region.","0","ruler"
+---
+"The king was known as a wise ruler.","A leader who governs a country or region.","1","ruler"
+"The king was known as a wise ruler.","A tool for measuring or drawing straight lines.","0","ruler"
+---
+"The car was parked under the bridge.","A structure built to span a physical obstacle.","1","bridge"
+"The car was parked under the bridge.","A connection or relationship between people or ideas.","0","bridge"
+---
+"She built a bridge between the two communities.","A connection or relationship between people or ideas.","1","bridge"
+"She built a bridge between the two communities.","A structure built to span a physical obstacle.","0","bridge"
+---
+"The cloud was shaped like a sheep.","A visible mass of condensed water vapor in the sky.","1","cloud"
+"The cloud was shaped like a sheep.","A computer data storage service.","0","cloud"
+---
+"He saved all his files in the cloud for access anywhere.","A computer data storage service.","1","cloud"
+"He saved all his files in the cloud for access anywhere.","A visible mass of condensed water vapor in the sky.","0","cloud"
+---
+"The coach had a long discussion with the player.","A formal conversation, often for advice or decision-making.","1","discussion"
+"The coach had a long discussion with the player.","A dispute or argument over an issue.","0","discussion"
+---
+"They had a heated discussion about the project timeline.","A dispute or argument over an issue.","1","discussion"
+"They had a heated discussion about the project timeline.","A formal conversation, often for advice or decision-making.","0","discussion"
+---
+"He found a solution to the difficult problem.","A way of solving or resolving an issue.","1","solution"
+"He found a solution to the difficult problem.","A liquid mixture used in chemical processes.","0","solution"
+---
+"The chemist prepared a solution of salt and water.","A liquid mixture used in chemical processes.","1","solution"
+"The chemist prepared a solution of salt and water.","A way of solving or resolving an issue.","0","solution"
+
+"The firetruck raced down the street with sirens blaring.","A vehicle used for firefighting and emergencies.","1","firetruck"
+"The firetruck raced down the street with sirens blaring.","A truck used for transporting goods.","0","firetruck"
+---
+"The firefighter jumped out of the firetruck and ran toward the building.","A person who extinguishes fires.","1","firefighter"
+"The firefighter jumped out of the firetruck and ran toward the building.","A vehicle used for firefighting and emergencies.","0","firefighter"
+---
+"He filled the pitcher with lemonade for the guests.","A container used for holding liquids.","1","pitcher"
+"He filled the pitcher with lemonade for the guests.","A person who throws the ball in baseball.","0","pitcher"
+---
+"The pitcher threw the ball to the batter.","A person who throws the ball in baseball.","1","pitcher"
+"The pitcher threw the ball to the batter.","A container used for holding liquids.","0","pitcher"
+---
+"He used a hammer to secure the nails into the wood.","A tool used for driving nails into surfaces.","1","hammer"
+"He used a hammer to secure the nails into the wood.","A device used to make music by striking strings or keys.","0","hammer"
+---
+"He played the hammer and chisel against the stone.","A tool used to shape or carve material.","1","hammer"
+"He played the hammer and chisel against the stone.","A tool used for driving nails into surfaces.","0","hammer"
+---
+"The road had a sharp curve ahead.","A change in direction or angle.","1","curve"
+"The road had a sharp curve ahead.","A smooth surface that facilitates movement.","0","curve"
+---
+"The tennis player hit a perfect curve on the ball.","A change in direction or angle.","1","curve"
+"The tennis player hit a perfect curve on the ball.","A smooth surface that facilitates movement.","0","curve"
+---
+"He went fishing by the stream.","A small, flowing body of water.","1","stream"
+"He went fishing by the stream.","A continuous flow of data or information.","0","stream"
+---
+"The data was transmitted via a live stream.","A continuous flow of data or information.","1","stream"
+"The data was transmitted via a live stream.","A small, flowing body of water.","0","stream"
+---
+"She drew a long line with a pencil.","A tool used for marking or writing.","1","pencil"
+"She drew a long line with a pencil.","A small rod made of metal, wood, or other material.","0","pencil"
+---
+"He used a pencil to sketch the design.","A tool used for marking or writing.","1","pencil"
+"He used a pencil to sketch the design.","A small rod made of metal, wood, or other material.","0","pencil"
+---
+"His story was full of twists and turns.","An unexpected change in direction or events.","1","twist"
+"His story was full of twists and turns.","A small piece of rope or wire that is twisted.","0","twist"
+---
+"The chef taught her how to twist the dough.","A small piece of rope or wire that is twisted.","1","twist"
+"The chef taught her how to twist the dough.","An unexpected change in direction or events.","0","twist"
+---
+"The sun was setting behind the mountains.","A star at the center of our solar system.","1","sun"
+"The sun was setting behind the mountains.","A type of large fruit with a hard rind.","0","sun"
+---
+"She loved walking in the warm sun.","A star at the center of our solar system.","1","sun"
+"She loved walking in the warm sun.","A type of large fruit with a hard rind.","0","sun"
+---
+"The boat sailed toward the horizon.","A line where the earth and sky seem to meet.","1","horizon"
+"The boat sailed toward the horizon.","A continuous series or range of things.","0","horizon"
+---
+"The company is expanding its product line into new horizons.","A continuous series or range of things.","1","horizon"
+"The company is expanding its product line into new horizons.","A line where the earth and sky seem to meet.","0","horizon"
+---
+"He took a deep breath before speaking.","The act of inhaling and exhaling air.","1","breath"
+"He took a deep breath before speaking.","A small breeze or gust of wind.","0","breath"
+---
+"The wind carried a cool breath through the trees.","A small breeze or gust of wind.","1","breath"
+"The wind carried a cool breath through the trees.","The act of inhaling and exhaling air.","0","breath"
+
+"He drove through the dense forest on his way to the cabin.","A large area covered chiefly with trees and undergrowth.","1","forest"
+"He drove through the dense forest on his way to the cabin.","A place to cultivate crops.","0","forest"
+---
+"The campers built a fire in the forest to stay warm.","A place to cultivate crops.","1","forest"
+"The campers built a fire in the forest to stay warm.","A large area covered chiefly with trees and undergrowth.","0","forest"
+---
+"The chef prepared a beautiful dish with a garnish of herbs.","A decorative item added to food for appearance or flavor.","1","garnish"
+"The chef prepared a beautiful dish with a garnish of herbs.","A type of clothing worn on the head.","0","garnish"
+---
+"She added a garnish of parsley to the plate.","A type of clothing worn on the head.","1","garnish"
+"She added a garnish of parsley to the plate.","A decorative item added to food for appearance or flavor.","0","garnish"
+---
+"He wore a leather belt with his jeans.","A strip of material worn around the waist.","1","belt"
+"He wore a leather belt with his jeans.","A body of water surrounded by land.","0","belt"
+---
+"The belt of the river had dried up due to the heat.","A body of water surrounded by land.","1","belt"
+"The belt of the river had dried up due to the heat.","A strip of material worn around the waist.","0","belt"
+---
+"The climber reached the summit of the mountain.","The highest point of a mountain or hill.","1","summit"
+"The climber reached the summit of the mountain.","A gathering of leaders or experts for a meeting.","0","summit"
+---
+"The summit of the conference was a roundtable discussion.","A gathering of leaders or experts for a meeting.","1","summit"
+"The summit of the conference was a roundtable discussion.","The highest point of a mountain or hill.","0","summit"
+---
+"The bakery smelled of fresh bread and pastries.","A place where baked goods are made or sold.","1","bakery"
+"The bakery smelled of fresh bread and pastries.","A store that sells flowers.","0","bakery"
+---
+"She bought a bouquet of flowers from the bakery.","A store that sells flowers.","1","bakery"
+"She bought a bouquet of flowers from the bakery.","A place where baked goods are made or sold.","0","bakery"
+---
+"His house had a beautiful garden in the backyard.","A plot of land where plants are grown.","1","garden"
+"His house had a beautiful garden in the backyard.","A building used for storing tools.","0","garden"
+---
+"He spent the afternoon in his vegetable garden.","A plot of land where plants are grown.","1","garden"
+"He spent the afternoon in his vegetable garden.","A building used for storing tools.","0","garden"
+---
+"She felt a rush of adrenaline after crossing the finish line.","A hormone released during stress or excitement.","1","adrenaline"
+"She felt a rush of adrenaline after crossing the finish line.","A burst of energy or excitement.","0","adrenaline"
+---
+"He said he could feel his adrenaline pumping as he prepared for the race.","A burst of energy or excitement.","1","adrenaline"
+"He said he could feel his adrenaline pumping as he prepared for the race.","A hormone released during stress or excitement.","0","adrenaline"
+---
+"He made a discovery while exploring the ancient ruins.","A finding or uncovering of something previously unknown.","1","discovery"
+"He made a discovery while exploring the ancient ruins.","A brief, intense period of learning.","0","discovery"
+---
+"The scientist’s discovery of a new element revolutionized chemistry.","A finding or uncovering of something previously unknown.","1","discovery"
+"The scientist’s discovery of a new element revolutionized chemistry.","A brief, intense period of learning.","0","discovery"
+---
+"The lawyer made an argument in favor of his client.","A reason or explanation given in support of a point.","1","argument"
+"The lawyer made an argument in favor of his client.","A verbal exchange of differing views.","0","argument"
+---
+"They had a heated argument about the terms of the contract.","A verbal exchange of differing views.","1","argument"
+"They had a heated argument about the terms of the contract.","A reason or explanation given in support of a point.","0","argument"
+---
+"He had to defend his position during the debate.","To argue in support of something.","1","defend"
+"He had to defend his position during the debate.","A type of clothing worn by soldiers.","0","defend"
+---
+"The soldiers were trained to defend their country.","A type of clothing worn by soldiers.","1","defend"
+"The soldiers were trained to defend their country.","To argue in support of something.","0","defend"
+
+"He was determined to stay fit and healthy.","In good physical condition.","1","fit"
+"He was determined to stay fit and healthy.","To try or attempt something.","0","fit"
+---
+"The dress was a perfect fit for her.","Appropriate or suitable in size, shape, or style.","1","fit"
+"The dress was a perfect fit for her.","In good physical condition.","0","fit"
+---
+"She used a ladder to climb up to the roof.","A structure with steps used to reach high places.","1","ladder"
+"She used a ladder to climb up to the roof.","A hierarchy or system of levels.","0","ladder"
+---
+"He moved up the ladder in his career.","A hierarchy or system of levels.","1","ladder"
+"He moved up the ladder in his career.","A structure with steps used to reach high places.","0","ladder"
+---
+"The players took their positions on the field.","A place where something or someone is located.","1","position"
+"The players took their positions on the field.","A stance or viewpoint in an argument.","0","position"
+---
+"He held a strong position in the debate.","A stance or viewpoint in an argument.","1","position"
+"He held a strong position in the debate.","A place where something or someone is located.","0","position"
+---
+"He reached the summit of his career goals.","The highest or most successful point in something.","1","summit"
+"He reached the summit of his career goals.","A collection or group of people with a shared purpose.","0","summit"
+---
+"The summit meeting was attended by world leaders.","A collection or group of people with a shared purpose.","1","summit"
+"The summit meeting was attended by world leaders.","The highest or most successful point in something.","0","summit"
+---
+"She decided to go for a swim in the lake.","To move through water by using the arms and legs.","1","swim"
+"She decided to go for a swim in the lake.","A type of dance or movement in water.","0","swim"
+---
+"He loves to swim in the ocean on hot days.","To move through water by using the arms and legs.","1","swim"
+"He loves to swim in the ocean on hot days.","A type of dance or movement in water.","0","swim"
+---
+"The balloon floated high in the sky.","To rest or move on the surface of a liquid or air.","1","float"
+"The balloon floated high in the sky.","A large ball of air used in certain games.","0","float"
+---
+"The leaves will float on the surface of the pond.","To rest or move on the surface of a liquid or air.","1","float"
+"The leaves will float on the surface of the pond.","A large ball of air used in certain games.","0","float"
+---
+"The engineer designed the machine to work efficiently.","A person who creates and builds machines or structures.","1","engineer"
+"The engineer designed the machine to work efficiently.","A person who operates a machine.","0","engineer"
+---
+"The engineer made improvements to the building’s structure.","A person who creates and builds machines or structures.","1","engineer"
+"The engineer made improvements to the building’s structure.","A person who operates a machine.","0","engineer"
+---
+"He tried to balance on the beam without falling.","A long, narrow piece of material used for support.","1","beam"
+"He tried to balance on the beam without falling.","A horizontal structure used in buildings.","0","beam"
+---
+"The sun's rays shone through the beams of the roof.","A horizontal structure used in buildings.","1","beam"
+"The sun's rays shone through the beams of the roof.","A long, narrow piece of material used for support.","0","beam"
+---
+"He carefully examined the delicate fabric.","A material that is woven or knitted.","1","fabric"
+"He carefully examined the delicate fabric.","A structure made from various materials.","0","fabric"
+---
+"The fabric of the building was made of high-quality materials.","A structure made from various materials.","1","fabric"
+"The fabric of the building was made of high-quality materials.","A material that is woven or knitted.","0","fabric"
+---
+"He reached the peak of the mountain after a long climb.","The highest point of a hill or mountain.","1","peak"
+"He reached the peak of the mountain after a long climb.","A moment of intense activity or success.","0","peak"
+---
+"His career was at its peak during the 1990s.","A moment of intense activity or success.","1","peak"
+"His career was at its peak during the 1990s.","The highest point of a hill or mountain.","0","peak"
+
+"The astronaut gazed at the stars from the spacecraft.","A large, bright object in the night sky.","1","star"
+"The astronaut gazed at the stars from the spacecraft.","A popular celebrity or famous person.","0","star"
+---
+"He became a movie star after his breakthrough role.","A popular celebrity or famous person.","1","star"
+"He became a movie star after his breakthrough role.","A large, bright object in the night sky.","0","star"
+---
+"She added a small pinch of salt to the soup.","A small amount of something, often seasoning.","1","pinch"
+"She added a small pinch of salt to the soup.","A quick grasp or squeeze with the fingers.","0","pinch"
+---
+"He felt a pinch of regret after his decision.","A quick grasp or squeeze with the fingers.","1","pinch"
+"He felt a pinch of regret after his decision.","A small amount of something, often seasoning.","0","pinch"
+---
+"The chair was made from solid oak wood.","A type of strong, durable tree used for timber.","1","oak"
+"The chair was made from solid oak wood.","A container used for holding liquids.","0","oak"
+---
+"He planted an oak tree in his backyard.","A type of strong, durable tree used for timber.","1","oak"
+"He planted an oak tree in his backyard.","A container used for holding liquids.","0","oak"
+---
+"He could hear the rustling of leaves in the wind.","A soft, fluttering sound caused by movement.","1","rustle"
+"He could hear the rustling of leaves in the wind.","A type of clothing worn on the upper body.","0","rustle"
+---
+"She heard a rustle as the animal moved through the brush.","A soft, fluttering sound caused by movement.","1","rustle"
+"She heard a rustle as the animal moved through the brush.","A type of clothing worn on the upper body.","0","rustle"
+---
+"He wore a large woolen sweater to keep warm.","A thick knitted garment worn on the upper body.","1","sweater"
+"He wore a large woolen sweater to keep warm.","A tool used for measuring temperatures.","0","sweater"
+---
+"She knitted a cozy sweater for her grandmother.","A thick knitted garment worn on the upper body.","1","sweater"
+"She knitted a cozy sweater for her grandmother.","A tool used for measuring temperatures.","0","sweater"
+---
+"The volcano erupted violently, spewing ash into the sky.","A geological event in which magma and gases are expelled from the Earth's crust.","1","volcano"
+"The volcano erupted violently, spewing ash into the sky.","A large, open space or area.","0","volcano"
+---
+"The scientists studied the eruption of the volcano.","A large, open space or area.","1","volcano"
+"The scientists studied the eruption of the volcano.","A geological event in which magma and gases are expelled from the Earth's crust.","0","volcano"
+---
+"The road was slippery after the rain.","A smooth surface made slick by moisture or ice.","1","slippery"
+"The road was slippery after the rain.","A type of clothing worn on the feet.","0","slippery"
+---
+"He slipped on the slippery floor while cleaning.","A smooth surface made slick by moisture or ice.","1","slippery"
+"He slipped on the slippery floor while cleaning.","A type of clothing worn on the feet.","0","slippery"
+---
+"He placed the book on the shelf.","A horizontal surface for storing objects.","1","shelf"
+"He placed the book on the shelf.","A tool used for measuring distances.","0","shelf"
+---
+"She organized her books neatly on the shelf.","A horizontal surface for storing objects.","1","shelf"
+"She organized her books neatly on the shelf.","A tool used for measuring distances.","0","shelf"
+---
+"He felt a wave of emotion as he watched the movie.","A strong feeling or surge of emotion.","1","wave"
+"He felt a wave of emotion as he watched the movie.","A large body of water on the ocean's surface.","0","wave"
+---
+"The boat sailed across the waves.","A large body of water on the ocean's surface.","1","wave"
+"The boat sailed across the waves.","A strong feeling or surge of emotion.","0","wave"
+---
+"She took a walk through the park on a sunny day.","A park or large outdoor area designed for recreation.","1","park"
+"She took a walk through the park on a sunny day.","A structure used to support plants in a garden.","0","park"
+---
+"He parked the car in the garage after work.","A structure used to store or park vehicles.","1","park"
+"He parked the car in the garage after work.","A park or large outdoor area designed for recreation.","0","park"
+
+"He carefully wrapped the fragile vase in bubble wrap.","Delicate and easily broken.","1","fragile"
+"He carefully wrapped the fragile vase in bubble wrap.","Strong and durable.","0","fragile"
+---
+"She had a fragile understanding of the complex concept.","Delicate and easily broken.","1","fragile"
+"She had a fragile understanding of the complex concept.","Strong and durable.","0","fragile"
+---
+"He loves to admire the intricate designs on ancient pottery.","Detailed and complicated in structure.","1","intricate"
+"He loves to admire the intricate designs on ancient pottery.","Simple and plain.","0","intricate"
+---
+"The spider wove intricate webs in the corner of the room.","Detailed and complicated in structure.","1","intricate"
+"The spider wove intricate webs in the corner of the room.","Simple and plain.","0","intricate"
+---
+"He drove his car at a steady pace down the road.","Constant or even in speed or direction.","1","steady"
+"He drove his car at a steady pace down the road.","Occasional or irregular.","0","steady"
+---
+"The constant, steady rain made the river rise.","Constant or even in speed or direction.","1","steady"
+"The constant, steady rain made the river rise.","Occasional or irregular.","0","steady"
+---
+"He took the book from the shelf.","A structure used for storing or holding items.","1","shelf"
+"He took the book from the shelf.","A small storage box for personal items.","0","shelf"
+---
+"She organized the library by placing books on the shelf.","A structure used for storing or holding items.","1","shelf"
+"She organized the library by placing books on the shelf.","A small storage box for personal items.","0","shelf"
+---
+"The scientist conducted experiments in the laboratory.","A room or building equipped for scientific work.","1","laboratory"
+"The scientist conducted experiments in the laboratory.","A place for growing plants.","0","laboratory"
+---
+"He spent hours working in the laboratory on his research.","A room or building equipped for scientific work.","1","laboratory"
+"He spent hours working in the laboratory on his research.","A place for growing plants.","0","laboratory"
+---
+"The ship sailed across the vast ocean.","A large body of water that covers most of the Earth's surface.","1","ocean"
+"The ship sailed across the vast ocean.","A small body of water surrounded by land.","0","ocean"
+---
+"They explored the ocean floor to study marine life.","A large body of water that covers most of the Earth's surface.","1","ocean"
+"They explored the ocean floor to study marine life.","A small body of water surrounded by land.","0","ocean"
+---
+"The musician played a beautiful melody on the piano.","A sequence of musical notes that is pleasing to hear.","1","melody"
+"The musician played a beautiful melody on the piano.","A rhythmic pattern of beats in music.","0","melody"
+---
+"He composed a melody that became a popular song.","A sequence of musical notes that is pleasing to hear.","1","melody"
+"He composed a melody that became a popular song.","A rhythmic pattern of beats in music.","0","melody"
+---
+"He tried to balance on the tightrope without falling.","To keep something stable or upright.","1","balance"
+"He tried to balance on the tightrope without falling.","To make something uneven or unstable.","0","balance"
+---
+"The gymnast showed perfect balance on the beam.","To keep something stable or upright.","1","balance"
+"The gymnast showed perfect balance on the beam.","To make something uneven or unstable.","0","balance"
+---
+"The wind caused the branches to sway back and forth.","To move gently or rhythmically in response to air or water.","1","sway"
+"The wind caused the branches to sway back and forth.","To hold something firmly in place.","0","sway"
+---
+"The dancer performed a graceful sway during the performance.","To move gently or rhythmically in response to air or water.","1","sway"
+"The dancer performed a graceful sway during the performance.","To hold something firmly in place.","0","sway"
+---
+"She picked up the phone and dialed the number.","A device used for making calls or sending messages.","1","phone"
+"She picked up the phone and dialed the number.","A small handheld computer.","0","phone"
+---
+"He forgot his phone at home and had to go back.","A device used for making calls or sending messages.","1","phone"
+"He forgot his phone at home and had to go back.","A small handheld computer.","0","phone"
+
+"He gave her a ring for their engagement.","A small circular band, typically worn on a finger.","1","ring"
+"He gave her a ring for their engagement.","A sound, often from a bell or telephone.","0","ring"
+---
+"The phone began to ring loudly.","A sound, often from a bell or telephone.","1","ring"
+"The phone began to ring loudly.","A small circular band, typically worn on a finger.","0","ring"
+---
+"She set the table before dinner.","To arrange or prepare something.","1","set"
+"She set the table before dinner.","A group or collection of similar items.","0","set"
+---
+"The chess set was made of ivory.","A group or collection of similar items.","1","set"
+"The chess set was made of ivory.","To arrange or prepare something.","0","set"
+---
+"The coach trained the team every morning.","A group of players forming one side in a game or sport.","1","team"
+"The coach trained the team every morning.","A group of animals or workers pulling a load.","0","team"
+---
+"The farmer used a team of oxen to plow the field.","A group of animals or workers pulling a load.","1","team"
+"The farmer used a team of oxen to plow the field.","A group of players forming one side in a game or sport.","0","team"
+---
+"She dropped the ball during the game.","A round object used in sports or play.","1","ball"
+"She dropped the ball during the game.","A formal gathering for dancing.","0","ball"
+---
+"The royal ball was held at the palace.","A formal gathering for dancing.","1","ball"
+"The royal ball was held at the palace.","A round object used in sports or play.","0","ball"
+---
+"He told a short story before bed.","An account of imaginary or real people and events.","1","story"
+"He told a short story before bed.","A level of a building.","0","story"
+---
+"The office is located on the third story.","A level of a building.","1","story"
+"The office is located on the third story.","An account of imaginary or real people and events.","0","story"
+---
+"The paper had a tear near the corner.","A rip or break in material.","1","tear"
+"The paper had a tear near the corner.","A drop of liquid from the eye, typically from emotion.","0","tear"
+---
+"A tear rolled down her cheek as she smiled.","A drop of liquid from the eye, typically from emotion.","1","tear"
+"A tear rolled down her cheek as she smiled.","A rip or break in material.","0","tear"
+---
+"The duck sat quietly on the bank.","The land alongside a river or lake.","1","bank"
+"The duck sat quietly on the bank.","An institution for storing and managing money.","0","bank"
+---
+"She went to the bank to deposit a check.","An institution for storing and managing money.","1","bank"
+"She went to the bank to deposit a check.","The land alongside a river or lake.","0","bank"
+---
+"He can play the bass guitar very well.","A low-pitched musical instrument.","1","bass"
+"He can play the bass guitar very well.","A type of fish found in freshwater or saltwater.","0","bass"
+---
+"She caught a large bass in the lake.","A type of fish found in freshwater or saltwater.","1","bass"
+"She caught a large bass in the lake.","A low-pitched musical instrument.","0","bass"
+---
+"The leaves fall from the trees in autumn.","To drop down from a higher place.","1","fall"
+"The leaves fall from the trees in autumn.","The season between summer and winter.","0","fall"
+---
+"Fall is my favorite time of the year.","The season between summer and winter.","1","fall"
+"Fall is my favorite time of the year.","To drop down from a higher place.","0","fall"
+---
+"He had a bright orange light on his bike.","A source of illumination.","1","light"
+"He had a bright orange light on his bike.","Not heavy in weight.","0","light"
+---
+"The bag was surprisingly light for its size.","Not heavy in weight.","1","light"
+"The bag was surprisingly light for its size.","A source of illumination.","0","light"
+---
+"He read the note left on the desk.","A short written message.","1","note"
+"He read the note left on the desk.","A musical sound with a specific pitch.","0","note"
+---
+"The singer hit a high note at the end of the song.","A musical sound with a specific pitch.","1","note"
+"The singer hit a high note at the end of the song.","A short written message.","0","note"
+---
+"The batter stepped up to the plate.","A player who tries to hit the ball in baseball.","1","batter"
+"The batter stepped up to the plate.","A mixture of ingredients used in baking.","0","batter"
+---
+"She poured the pancake batter into the pan.","A mixture of ingredients used in baking.","1","batter"
+"She poured the pancake batter into the pan.","A player who tries to hit the ball in baseball.","0","batter"
+---
+"He hit the nail with a hammer.","A small metal spike used in construction.","1","nail"
+"He hit the nail with a hammer.","A hard covering on the tips of fingers and toes.","0","nail"
+---
+"She painted each fingernail a different color.","A hard covering on the tips of fingers and toes.","1","nail"
+"She painted each fingernail a different color.","A small metal spike used in construction.","0","nail"
+---
+"They watched a play at the theater.","A dramatic performance on stage.","1","play"
+"They watched a play at the theater.","Engagement in activity for enjoyment.","0","play"
+---
+"The children love to play outside after school.","Engagement in activity for enjoyment.","1","play"
+"The children love to play outside after school.","A dramatic performance on stage.","0","play"
+
+"The crane lifted the heavy beams into place.","A large machine used for lifting and moving heavy objects.","1","crane"
+"The crane lifted the heavy beams into place.","A tall, long-necked bird.","0","crane"
+---
+"We saw a crane flying over the wetland.","A tall, long-necked bird.","1","crane"
+"We saw a crane flying over the wetland.","A large machine used for lifting and moving heavy objects.","0","crane"
+---
+"The seal clapped its fins together at the zoo.","A sea animal with flippers that lives in cold regions.","1","seal"
+"The seal clapped its fins together at the zoo.","A stamp or emblem used to close something securely.","0","seal"
+---
+"She broke the seal on the envelope.","A stamp or emblem used to close something securely.","1","seal"
+"She broke the seal on the envelope.","A sea animal with flippers that lives in cold regions.","0","seal"
+---
+"He struck the match to light the candle.","To cause something to ignite or spark.","1","strike"
+"He struck the match to light the candle.","A refusal to work as a form of protest.","0","strike"
+---
+"The workers organized a strike for better pay.","A refusal to work as a form of protest.","1","strike"
+"The workers organized a strike for better pay.","To cause something to ignite or spark.","0","strike"
+---
+"The patient lay still during the operation.","A medical procedure performed by a doctor.","1","operation"
+"The patient lay still during the operation.","The functioning or working of a system or machine.","0","operation"
+---
+"The operation of the new system was smooth.","The functioning or working of a system or machine.","1","operation"
+"The operation of the new system was smooth.","A medical procedure performed by a doctor.","0","operation"
+---
+"The pupil sat quietly in class.","A student or learner.","1","pupil"
+"The pupil sat quietly in class.","The central part of the eye that lets in light.","0","pupil"
+---
+"The doctor checked the patient's pupils with a flashlight.","The central part of the eye that lets in light.","1","pupil"
+"The doctor checked the patient's pupils with a flashlight.","A student or learner.","0","pupil"
+---
+"He tied the knot tightly to secure the rope.","A fastening made by tying a piece of string, rope, etc.","1","knot"
+"He tied the knot tightly to secure the rope.","A unit of speed used in maritime and air navigation.","0","knot"
+---
+"The ship was moving at 15 knots across the sea.","A unit of speed used in maritime and air navigation.","1","knot"
+"The ship was moving at 15 knots across the sea.","A fastening made by tying a piece of string, rope, etc.","0","knot"
+---
+"He placed the file in the cabinet for storage.","A folder or container for documents.","1","file"
+"He placed the file in the cabinet for storage.","A tool with a rough surface used for smoothing.","0","file"
+---
+"She used a file to smooth her nails.","A tool with a rough surface used for smoothing.","1","file"
+"She used a file to smooth her nails.","A folder or container for documents.","0","file"
+---
+"The bat flew silently through the night sky.","A nocturnal flying mammal.","1","bat"
+"The bat flew silently through the night sky.","A club used for hitting a ball in sports like baseball.","0","bat"
+---
+"He swung the bat and hit the ball out of the park.","A club used for hitting a ball in sports like baseball.","1","bat"
+"He swung the bat and hit the ball out of the park.","A nocturnal flying mammal.","0","bat"
+---
+"The rock was slippery after the rain.","A large piece of stone or mineral.","1","rock"
+"The rock was slippery after the rain.","A genre of popular music.","0","rock"
+---
+"They listened to classic rock music all night.","A genre of popular music.","1","rock"
+"They listened to classic rock music all night.","A large piece of stone or mineral.","0","rock"
+---
+"The mine was shut down due to safety concerns.","A place where minerals or other resources are extracted.","1","mine"
+"The mine was shut down due to safety concerns.","A pronoun indicating possession.","0","mine"
+---
+"That toy is mine, not yours.","A pronoun indicating possession.","1","mine"
+"That toy is mine, not yours.","A place where minerals or other resources are extracted.","0","mine"
+---
+"The wave knocked him over as he stood in the surf.","A moving ridge of water on the surface of the sea.","1","wave"
+"The wave knocked him over as he stood in the surf.","A gesture made by moving the hand to greet or signal.","0","wave"
+---
+"She gave a friendly wave as the train left.","A gesture made by moving the hand to greet or signal.","1","wave"
+"She gave a friendly wave as the train left.","A moving ridge of water on the surface of the sea.","0","wave"
+---
+"He placed a plant near the window to get more sunlight.","A living organism that grows in soil and has leaves.","1","plant"
+"He placed a plant near the window to get more sunlight.","A factory or industrial facility.","0","plant"
+---
+"The new car plant opened last week in the city.","A factory or industrial facility.","1","plant"
+"The new car plant opened last week in the city.","A living organism that grows in soil and has leaves.","0","plant"
+---
+"She watched the stream flow through the valley.","A small, narrow river.","1","stream"
+"She watched the stream flow through the valley.","A continuous flow of data or video.","0","stream"
+---
+"He started a live stream of the concert.","A continuous flow of data or video.","1","stream"
+"He started a live stream of the concert.","A small, narrow river.","0","stream"
+---
+"The conductor signaled the start of the concert.","A person who directs a musical performance.","1","conductor"
+"The conductor signaled the start of the concert.","A material that transmits heat or electricity.","0","conductor"
+---
+"Copper is an excellent conductor of electricity.","A material that transmits heat or electricity.","1","conductor"
+"Copper is an excellent conductor of electricity.","A person who directs a musical performance.","0","conductor"
+
+"He opened the trunk to store his luggage.","A large compartment at the back of a car for storage.","1","trunk"
+"He opened the trunk to store his luggage.","The long nose of an elephant.","0","trunk"
+---
+"The elephant used its trunk to grab a branch.","The long nose of an elephant.","1","trunk"
+"The elephant used its trunk to grab a branch.","A large compartment at the back of a car for storage.","0","trunk"
+---
+"The bark of the tree was rough and thick.","The outer covering of a tree.","1","bark"
+"The bark of the tree was rough and thick.","The sharp sound made by a dog.","0","bark"
+---
+"The dog began to bark loudly at the stranger.","The sharp sound made by a dog.","1","bark"
+"The dog began to bark loudly at the stranger.","The outer covering of a tree.","0","bark"
+---
+"He kept the watch in his drawer.","A small timekeeping device worn or carried.","1","watch"
+"He kept the watch in his drawer.","A period of close observation.","0","watch"
+---
+"The guards were on night watch at the entrance.","A period of close observation.","1","watch"
+"The guards were on night watch at the entrance.","A small timekeeping device worn or carried.","0","watch"
+---
+"The pen leaked ink on the paper.","An instrument used for writing.","1","pen"
+"The pen leaked ink on the paper.","An enclosed area for holding animals.","0","pen"
+---
+"The farmer led the sheep into the pen.","An enclosed area for holding animals.","1","pen"
+"The farmer led the sheep into the pen.","An instrument used for writing.","0","pen"
+---
+"She has a sharp eye for detail.","An organ that allows vision.","1","eye"
+"She has a sharp eye for detail.","A small loop used in sewing or hooking.","0","eye"
+---
+"He threaded the needle through the eye.","A small loop used in sewing or hooking.","1","eye"
+"He threaded the needle through the eye.","An organ that allows vision.","0","eye"
+---
+"He saw a bat hanging from the cave ceiling.","A nocturnal flying mammal.","1","bat"
+"He saw a bat hanging from the cave ceiling.","A piece of equipment used to hit the ball in sports.","0","bat"
+---
+"She swung the bat and hit a home run.","A piece of equipment used to hit the ball in sports.","1","bat"
+"She swung the bat and hit a home run.","A nocturnal flying mammal.","0","bat"
+---
+"She jammed the printer with too many pages.","To block or crowd tightly.","1","jam"
+"She jammed the printer with too many pages.","A sweet spread made from fruit and sugar.","0","jam"
+---
+"He spread strawberry jam on his toast.","A sweet spread made from fruit and sugar.","1","jam"
+"He spread strawberry jam on his toast.","To block or crowd tightly.","0","jam"
+---
+"The leaves began to fall in October.","To drop from a height.","1","fall"
+"The leaves began to fall in October.","A season between summer and winter.","0","fall"
+---
+"They enjoy hiking during the fall.","A season between summer and winter.","1","fall"
+"They enjoy hiking during the fall.","To drop from a height.","0","fall"
+---
+"He booked a room at the hotel.","To arrange for someone to stay or attend.","1","book"
+"He booked a room at the hotel.","A written or printed literary work.","0","book"
+---
+"She read an entire book over the weekend.","A written or printed literary work.","1","book"
+"She read an entire book over the weekend.","To arrange for someone to stay or attend.","0","book"
+---
+"The plant needs water and sunlight to grow.","A living organism that typically grows in soil.","1","plant"
+"The plant needs water and sunlight to grow.","A place where industrial processes occur.","0","plant"
+---
+"They opened a new manufacturing plant in the city.","A place where industrial processes occur.","1","plant"
+"They opened a new manufacturing plant in the city.","A living organism that typically grows in soil.","0","plant"
+---
+"He left the bass in the corner of the studio.","A low-pitched musical instrument.","1","bass"
+"He left the bass in the corner of the studio.","A type of fish.","0","bass"
+---
+"She caught a huge bass while fishing.","A type of fish.","1","bass"
+"She caught a huge bass while fishing.","A low-pitched musical instrument.","0","bass"
+---
+"The pitcher threw a perfect strike.","A baseball player who throws the ball.","1","pitcher"
+"The pitcher threw a perfect strike.","A container for holding and pouring liquids.","0","pitcher"
+---
+"She poured lemonade from the glass pitcher.","A container for holding and pouring liquids.","1","pitcher"
+"She poured lemonade from the glass pitcher.","A baseball player who throws the ball.","0","pitcher"
+---
+"The school held a spring concert in April.","A season of the year.","1","spring"
+"The school held a spring concert in April.","A coil that returns to its original shape.","0","spring"
+---
+"The mattress contains a set of firm springs.","A coil that returns to its original shape.","1","spring"
+"The mattress contains a set of firm springs.","A season of the year.","0","spring"
+---
+"He used a mouse to navigate the screen.","A computer input device.","1","mouse"
+"He used a mouse to navigate the screen.","A small rodent.","0","mouse"
+---
+"A mouse ran across the kitchen floor.","A small rodent.","1","mouse"
+"A mouse ran across the kitchen floor.","A computer input device.","0","mouse"
+---
+"The bank is closing early today.","A financial institution.","1","bank"
+"The bank is closing early today.","The edge of a river or stream.","0","bank"
+---
+"They had a picnic on the grassy river bank.","The edge of a river or stream.","1","bank"
+"They had a picnic on the grassy river bank.","A financial institution.","0","bank"
+
+"The match was over in just ten minutes.","A sports contest or competition.","1","match"
+"The match was over in just ten minutes.","A small stick that produces a flame when struck.","0","match"
+---
+"She lit the candle with a match.","A small stick that produces a flame when struck.","1","match"
+"She lit the candle with a match.","A sports contest or competition.","0","match"
+---
+"He put the scale on the counter to weigh the fruit.","A device for measuring weight.","1","scale"
+"He put the scale on the counter to weigh the fruit.","A series of musical notes in a specific order.","0","scale"
+---
+"She practiced the C major scale on the piano.","A series of musical notes in a specific order.","1","scale"
+"She practiced the C major scale on the piano.","A device for measuring weight.","0","scale"
+---
+"The tire had a deep cut in the sidewall.","A sharp opening caused by slicing.","1","cut"
+"The tire had a deep cut in the sidewall.","A version of a film or video that has been edited.","0","cut"
+---
+"The director released the final cut of the movie.","A version of a film or video that has been edited.","1","cut"
+"The director released the final cut of the movie.","A sharp opening caused by slicing.","0","cut"
+---
+"He used a ruler to draw a straight line.","A tool used for measuring or drawing straight lines.","1","ruler"
+"He used a ruler to draw a straight line.","A person who governs or leads a country.","0","ruler"
+---
+"The ancient ruler expanded the empire's territory.","A person who governs or leads a country.","1","ruler"
+"The ancient ruler expanded the empire's territory.","A tool used for measuring or drawing straight lines.","0","ruler"
+---
+"He stood at the dock waiting for the boat.","A platform where ships load or unload.","1","dock"
+"He stood at the dock waiting for the boat.","To remove part of someone's pay or time.","0","dock"
+---
+"The company decided to dock his wages for being late.","To remove part of someone's pay or time.","1","dock"
+"The company decided to dock his wages for being late.","A platform where ships load or unload.","0","dock"
+---
+"The coach gave a long lecture before the game.","A talk or presentation for teaching or instruction.","1","lecture"
+"The coach gave a long lecture before the game.","A serious scolding or reprimand.","0","lecture"
+---
+"She gave her son a stern lecture about manners.","A serious scolding or reprimand.","1","lecture"
+"She gave her son a stern lecture about manners.","A talk or presentation for teaching or instruction.","0","lecture"
+---
+"He broke the record for fastest lap time.","An achievement that is the best of its kind.","1","record"
+"He broke the record for fastest lap time.","A vinyl disc used to play music.","0","record"
+---
+"My grandfather played old jazz records on his turntable.","A vinyl disc used to play music.","1","record"
+"My grandfather played old jazz records on his turntable.","An achievement that is the best of its kind.","0","record"
+---
+"They built a dam to control the flow of water.","A structure that holds back water.","1","dam"
+"They built a dam to control the flow of water.","A swear word used to express anger.","0","dam"
+---
+"She let out a quiet dam under her breath.","A swear word used to express anger.","1","dam"
+"She let out a quiet dam under her breath.","A structure that holds back water.","0","dam"
+---
+"The crane extended its neck to reach the fish.","A long-necked bird often found near water.","1","crane"
+"The crane extended its neck to reach the fish.","A machine used for lifting heavy objects.","0","crane"
+---
+"The tools were kept in a steel case.","A container used to store or protect something.","1","case"
+"The tools were kept in a steel case.","An instance of a particular situation or event.","0","case"
+---
+"In that case, we should leave earlier.","An instance of a particular situation or event.","1","case"
+"In that case, we should leave earlier.","A container used to store or protect something.","0","case"
+---
+"He opened the trunk to get his suitcase.","A large compartment in a vehicle for storage.","1","trunk"
+"He opened the trunk to get his suitcase.","The main woody stem of a tree.","0","trunk"
+---
+"The tree’s trunk was thick and covered in moss.","The main woody stem of a tree.","1","trunk"
+"The tree’s trunk was thick and covered in moss.","A large compartment in a vehicle for storage.","0","trunk"
+---
+"She tied the bow at the front of the dress.","A decorative knot tied with ribbon.","1","bow"
+"She tied the bow at the front of the dress.","A weapon used for shooting arrows.","0","bow"
+---
+"The archer drew back the bow and released the arrow.","A weapon used for shooting arrows.","1","bow"
+"The archer drew back the bow and released the arrow.","A decorative knot tied with ribbon.","0","bow"
+---
+"The court was in session all morning.","A place where legal cases are heard.","1","court"
+"The court was in session all morning.","An area where games like tennis are played.","0","court"
+---
+"They played a game of tennis on the court.","An area where games like tennis are played.","1","court"
+"They played a game of tennis on the court.","A place where legal cases are heard.","0","court"
+---
+"He tossed a coin to make the decision.","A flat, round piece of metal money.","1","coin"
+"He tossed a coin to make the decision.","To invent or create a new word or phrase.","0","coin"
+---
+"The scientist coined a new term in the paper.","To invent or create a new word or phrase.","1","coin"
+"The scientist coined a new term in the paper.","A flat, round piece of metal money.","0","coin"
+---
+"He left his keys on the counter.","A flat surface where transactions or tasks are done.","1","counter"
+"He left his keys on the counter.","A person or device that counts.","0","counter"
+---
+"The counter clicked every time a person entered.","A person or device that counts.","1","counter"
+"The counter clicked every time a person entered.","A flat surface where transactions or tasks are done.","0","counter"
+---
+"They built a new deck in the backyard.","A flat platform attached to a house or structure.","1","deck"
+"They built a new deck in the backyard.","A stack of playing cards.","0","deck"
+---
+"He shuffled the deck before dealing the cards.","A stack of playing cards.","1","deck"
+"He shuffled the deck before dealing the cards.","A flat platform attached to a house or structure.","0","deck"
+
+"He made a pass at the top of the mountain.","A navigable route through a mountain range.","1","pass"
+"He made a pass at the top of the mountain.","An action of throwing or handing something over.","0","pass"
+---
+"The quarterback made a perfect pass.","An action of throwing or handing something over.","1","pass"
+"The quarterback made a perfect pass.","A navigable route through a mountain range.","0","pass"
+---
+"He drew the bow across the strings of the violin.","A curved piece of wood with horsehair used to play string instruments.","1","bow"
+"He drew the bow across the strings of the violin.","A gesture of bending the upper body in greeting or respect.","0","bow"
+---
+"The dancer took a graceful bow after the performance.","A gesture of bending the upper body in greeting or respect.","1","bow"
+"The dancer took a graceful bow after the performance.","A curved piece of wood with horsehair used to play string instruments.","0","bow"
+---
+"He left his glasses on the table.","Lenses used to improve vision.","1","glasses"
+"He left his glasses on the table.","Containers used for drinking liquids.","0","glasses"
+---
+"The table was set with plates and glasses.","Containers used for drinking liquids.","1","glasses"
+"The table was set with plates and glasses.","Lenses used to improve vision.","0","glasses"
+---
+"The wind was so strong it caused a great break in the fence.","A gap or interruption in continuity.","1","break"
+"The wind was so strong it caused a great break in the fence.","A short period of rest or pause.","0","break"
+---
+"Let's take a short break before continuing.","A short period of rest or pause.","1","break"
+"Let's take a short break before continuing.","A gap or interruption in continuity.","0","break"
+---
+"The ring on her finger sparkled in the sunlight.","A circular band worn as jewelry.","1","ring"
+"The ring on her finger sparkled in the sunlight.","The sound made by a bell or telephone.","0","ring"
+---
+"The alarm gave a loud ring at 6 AM.","The sound made by a bell or telephone.","1","ring"
+"The alarm gave a loud ring at 6 AM.","A circular band worn as jewelry.","0","ring"
+---
+"He walked along the bank looking for smooth stones.","The land alongside a river or body of water.","1","bank"
+"He walked along the bank looking for smooth stones.","A financial institution.","0","bank"
+---
+"He deposited the check at the bank.","A financial institution.","1","bank"
+"He deposited the check at the bank.","The land alongside a river or body of water.","0","bank"
+---
+"She stood in front of the mirror to adjust her hair.","A reflective surface for viewing oneself.","1","mirror"
+"She stood in front of the mirror to adjust her hair.","Something that accurately reflects or imitates another.","0","mirror"
+---
+"The book is a mirror of society.","Something that accurately reflects or imitates another.","1","mirror"
+"The book is a mirror of society.","A reflective surface for viewing oneself.","0","mirror"
+---
+"He played the lead in the school play.","The main role in a performance.","1","lead"
+"He played the lead in the school play.","A soft, heavy metal often found in pipes.","0","lead"
+---
+"The old pipes were made of lead and needed replacement.","A soft, heavy metal often found in pipes.","1","lead"
+"The old pipes were made of lead and needed replacement.","The main role in a performance.","0","lead"
+---
+"They sat around the fire telling stories.","The combustion that produces light, heat, and flame.","1","fire"
+"They sat around the fire telling stories.","To dismiss someone from their job.","0","fire"
+---
+"The company had to fire several employees.","To dismiss someone from their job.","1","fire"
+"The company had to fire several employees.","The combustion that produces light, heat, and flame.","0","fire"
+---
+"The nail was bent after he hit it wrong.","A thin pointed piece of metal used in construction.","1","nail"
+"The nail was bent after he hit it wrong.","The hard covering at the tip of a finger or toe.","0","nail"
+---
+"She painted each fingernail a different color.","The hard covering at the tip of a finger or toe.","1","nail"
+"She painted each fingernail a different color.","A thin pointed piece of metal used in construction.","0","nail"
+---
+"He stepped on the scale to check his weight.","A device used to measure weight.","1","scale"
+"He stepped on the scale to check his weight.","A series of notes used in music.","0","scale"
+---
+"She practiced her scales every day on the piano.","A series of notes used in music.","1","scale"
+"She practiced her scales every day on the piano.","A device used to measure weight.","0","scale"
+---
+"The bat soared through the sky.","A nocturnal flying mammal.","1","bat"
+"The bat soared through the sky.","A wooden or metal club used in sports.","0","bat"
+---
+"He swung the bat with all his strength.","A wooden or metal club used in sports.","1","bat"
+"He swung the bat with all his strength.","A nocturnal flying mammal.","0","bat"
+---
+"The sentence ended with a period.","A punctuation mark used to end a sentence.","1","period"
+"The sentence ended with a period.","A span of time with a specific duration.","0","period"
+---
+"The Renaissance was a fascinating period in history.","A span of time with a specific duration.","1","period"
+"The Renaissance was a fascinating period in history.","A punctuation mark used to end a sentence.","0","period"
+---
+"He trained hard to build more muscle.","Tissue in the body that contracts for movement.","1","muscle"
+"He trained hard to build more muscle.","Power or influence used to achieve something.","0","muscle"
+---
+"She used political muscle to get the bill passed.","Power or influence used to achieve something.","1","muscle"
+"She used political muscle to get the bill passed.","Tissue in the body that contracts for movement.","0","muscle"
+
+"He made a pass at the top of the mountain.","A navigable route through a mountain range.","1","pass"
+"He made a pass at the top of the mountain.","An action of throwing or handing something over.","0","pass"
+---
+"The quarterback made a perfect pass.","An action of throwing or handing something over.","1","pass"
+"The quarterback made a perfect pass.","A navigable route through a mountain range.","0","pass"
+---
+"He drew the bow across the strings of the violin.","A curved piece of wood with horsehair used to play string instruments.","1","bow"
+"He drew the bow across the strings of the violin.","A gesture of bending the upper body in greeting or respect.","0","bow"
+---
+"The dancer took a graceful bow after the performance.","A gesture of bending the upper body in greeting or respect.","1","bow"
+"The dancer took a graceful bow after the performance.","A curved piece of wood with horsehair used to play string instruments.","0","bow"
+---
+"He left his glasses on the table.","Lenses used to improve vision.","1","glasses"
+"He left his glasses on the table.","Containers used for drinking liquids.","0","glasses"
+---
+"The table was set with plates and glasses.","Containers used for drinking liquids.","1","glasses"
+"The table was set with plates and glasses.","Lenses used to improve vision.","0","glasses"
+---
+"The wind was so strong it caused a great break in the fence.","A gap or interruption in continuity.","1","break"
+"The wind was so strong it caused a great break in the fence.","A short period of rest or pause.","0","break"
+---
+"Let's take a short break before continuing.","A short period of rest or pause.","1","break"
+"Let's take a short break before continuing.","A gap or interruption in continuity.","0","break"
+---
+"The ring on her finger sparkled in the sunlight.","A circular band worn as jewelry.","1","ring"
+"The ring on her finger sparkled in the sunlight.","The sound made by a bell or telephone.","0","ring"
+---
+"The alarm gave a loud ring at 6 AM.","The sound made by a bell or telephone.","1","ring"
+"The alarm gave a loud ring at 6 AM.","A circular band worn as jewelry.","0","ring"
+---
+"He walked along the bank looking for smooth stones.","The land alongside a river or body of water.","1","bank"
+"He walked along the bank looking for smooth stones.","A financial institution.","0","bank"
+---
+"He deposited the check at the bank.","A financial institution.","1","bank"
+"He deposited the check at the bank.","The land alongside a river or body of water.","0","bank"
+---
+"She stood in front of the mirror to adjust her hair.","A reflective surface for viewing oneself.","1","mirror"
+"She stood in front of the mirror to adjust her hair.","Something that accurately reflects or imitates another.","0","mirror"
+---
+"The book is a mirror of society.","Something that accurately reflects or imitates another.","1","mirror"
+"The book is a mirror of society.","A reflective surface for viewing oneself.","0","mirror"
+---
+"He played the lead in the school play.","The main role in a performance.","1","lead"
+"He played the lead in the school play.","A soft, heavy metal often found in pipes.","0","lead"
+---
+"The old pipes were made of lead and needed replacement.","A soft, heavy metal often found in pipes.","1","lead"
+"The old pipes were made of lead and needed replacement.","The main role in a performance.","0","lead"
+---
+"They sat around the fire telling stories.","The combustion that produces light, heat, and flame.","1","fire"
+"They sat around the fire telling stories.","To dismiss someone from their job.","0","fire"
+---
+"The company had to fire several employees.","To dismiss someone from their job.","1","fire"
+"The company had to fire several employees.","The combustion that produces light, heat, and flame.","0","fire"
+---
+"The nail was bent after he hit it wrong.","A thin pointed piece of metal used in construction.","1","nail"
+"The nail was bent after he hit it wrong.","The hard covering at the tip of a finger or toe.","0","nail"
+---
+"She painted each fingernail a different color.","The hard covering at the tip of a finger or toe.","1","nail"
+"She painted each fingernail a different color.","A thin pointed piece of metal used in construction.","0","nail"
+---
+"He stepped on the scale to check his weight.","A device used to measure weight.","1","scale"
+"He stepped on the scale to check his weight.","A series of notes used in music.","0","scale"
+---
+"She practiced her scales every day on the piano.","A series of notes used in music.","1","scale"
+"She practiced her scales every day on the piano.","A device used to measure weight.","0","scale"
+---
+"The bat soared through the sky.","A nocturnal flying mammal.","1","bat"
+"The bat soared through the sky.","A wooden or metal club used in sports.","0","bat"
+---
+"He swung the bat with all his strength.","A wooden or metal club used in sports.","1","bat"
+"He swung the bat with all his strength.","A nocturnal flying mammal.","0","bat"
+---
+"The sentence ended with a period.","A punctuation mark used to end a sentence.","1","period"
+"The sentence ended with a period.","A span of time with a specific duration.","0","period"
+---
+"The Renaissance was a fascinating period in history.","A span of time with a specific duration.","1","period"
+"The Renaissance was a fascinating period in history.","A punctuation mark used to end a sentence.","0","period"
+---
+"He trained hard to build more muscle.","Tissue in the body that contracts for movement.","1","muscle"
+"He trained hard to build more muscle.","Power or influence used to achieve something.","0","muscle"
+---
+"She used political muscle to get the bill passed.","Power or influence used to achieve something.","1","muscle"
+"She used political muscle to get the bill passed.","Tissue in the body that contracts for movement.","0","muscle"

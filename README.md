@@ -15,9 +15,8 @@ This project introduces a **smart, automated screening system** that:
 * Uses **ML models** to identify dyslexia indicators
 * Provides **early detection support** for students, teachers, and parents
 
-✅ Achieved **~83% accuracy** in predicting dyslexia
-
-✅ Designed to be **cost-effective and user-friendly**
+✅ Achieved **~83% accuracy** in predicting dyslexia.
+✅ Designed to be **cost-effective and user-friendly.**
 
 ---
 

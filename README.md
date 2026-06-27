@@ -16,6 +16,7 @@ This project introduces a **smart, automated screening system** that:
 * Provides **early detection support** for students, teachers, and parents
 
 ✅ Achieved **~83% accuracy** in predicting dyslexia
+
 ✅ Designed to be **cost-effective and user-friendly**
 
 ---
@@ -39,34 +40,6 @@ This project introduces a **smart, automated screening system** that:
 * **Model Approach:** Sequence-to-Sequence (Seq2Seq)
 * **Data Processing:** Text Cleaning, Feature Extraction
 * **Frontend:** HTML, CSS, JavaScript, Bootstrap
-
----
-
-## ⚙️ How It Works
-
-1. **Data Collection**
-
-   * User inputs writing samples and test responses
-
-2. **Data Preprocessing**
-
-   * Cleaning text, tokenization, normalization
-
-3. **Feature Extraction**
-
-   * Identifying spelling errors, word patterns, sequence anomalies
-
-4. **Model Training**
-
-   * Machine Learning model trained on labeled datasets
-
-5. **Prediction**
-
-   * System predicts likelihood of dyslexia
-
-6. **Report Generation**
-
-   * Provides detailed insights and performance summary
 
 ---
 

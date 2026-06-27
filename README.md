@@ -16,6 +16,7 @@ This project introduces a **smart, automated screening system** that:
 * Provides **early detection support** for students, teachers, and parents
 
 ✅ Achieved **~83% accuracy** in predicting dyslexia.
+
 ✅ Designed to be **cost-effective and user-friendly.**
 
 ---

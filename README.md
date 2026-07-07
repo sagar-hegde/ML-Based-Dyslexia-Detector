@@ -1,7 +1,7 @@
 # 🧠 Machine Learning-Based Dyslexia Screening System
 
 An AI-powered system designed to **detect dyslexia early** using **Natural Language Processing (NLP)** and **Machine Learning techniques**.
-This project analyzes writing patterns and user responses through multimodal tests to provide accurate and accessible screening.
+This project analyzes writing patterns and user responses through multimodal tests to provide accurate and accessible screening. 
 
 ---
 
